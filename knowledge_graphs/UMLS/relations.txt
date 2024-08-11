@@ -1,0 +1,46 @@
+0	measures	measures
+1	derivative_of	derivative of
+2	disrupts	disrupts
+3	prevents	prevents
+4	conceptually_related_to	conceptually related to
+5	manifestation_of	manifestation of
+6	diagnoses	diagnoses
+7	evaluation_of	evaluation of
+8	contains	contains
+9	co-occurs_with	co-occurs with
+10	conceptual_part_of	conceptual part of
+11	performs	performs
+12	degree_of	degree of
+13	interacts_with	interacts with
+14	uses	uses
+15	issue_in	issue in
+16	assesses_effect_of	assesses effect of
+17	property_of	property of
+18	precedes	precedes
+19	result_of	result of
+20	causes	causes
+21	practices	practices
+22	ingredient_of	ingredient of
+23	analyzes	analyzes
+24	surrounds	surrounds
+25	indicates	indicates
+26	associated_with	associated with
+27	affects	affects
+28	location_of	location of
+29	produces	produces
+30	process_of	process of
+31	measurement_of	measurement of
+32	connected_to	connected to
+33	carries_out	carries out
+34	method_of	method of
+35	adjacent_to	adjacent to
+36	occurs_in	occurs in
+37	consists_of	consists of
+38	interconnects	interconnects
+39	manages	manages
+40	complicates	complicates
+41	part_of	part of
+42	treats	treats
+43	isa	is a
+44	developmental_form_of	developmental form of
+45	exhibits	exhibits

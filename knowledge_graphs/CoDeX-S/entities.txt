@@ -1,0 +1,2034 @@
+0	Q7604	Leonhard Euler	Swiss mathematician
+1	Q188	German	West Germanic language
+2	Q78608	Carl Djerassi	American chemistry professor, inventor, author, playwright
+3	Q12078	cancer	group of diseases
+4	Q739	Colombia	country in South America
+5	Q656801	International Finance Corporation	International Finance Corporation
+6	Q192279	Aleksey Nikolayevich Tolstoy	Russian-Soviet writer
+7	Q7737	Russian	East Slavic language
+8	Q55	Netherlands	country in Western Europe, part of the Kingdom of the Netherlands
+9	Q1969730	Schengen Area	area of 26 European states without mutual border controls
+10	Q318509	Henry Rollins	American singer-songwriter
+11	Q1476215	human rights activist	person who, individually or with others, acts to promote or protect some variation of human rights
+12	Q1511	Richard Wagner	German composer and conductor
+13	Q3387717	theater director	person overseeing the mounting of a theatre production
+14	Q221364	Jaden Smith	American rapper, swinger, songwriter, and actor
+15	Q33999	actor	person who acts in a dramatic or comic production and works in film, television, theatre, or radio
+16	Q217427	La Toya Jackson	American singer
+17	Q44855	Jackie Jackson	singer and member of The Jackson 5 from the United States
+18	Q443995	John Cameron Mitchell	American film director
+19	Q10798782	television actor	actor who performs on television
+20	Q446743	Julian Klaczko	Polish historian
+21	Q201788	historian	scholar who deals with the exploration and presentation of history
+22	Q47122	Enrique Iglesias	Spanish singer-songwriter
+23	Q1321	Spanish	Romance language originating on the Iberian peninsula, spoken mostly in Spain and many parts of the Americas
+24	Q865	Taiwan	democratic republic in East Asia, with limited recognition
+25	Q971	Republic of the Congo	republic in Central Africa
+26	Q11063	astronomer	scientist who studies celestial bodies
+27	Q106775	Richard Harris	Irish actor, singer, film director and writer
+28	Q488205	singer-songwriter	A musician who writes, composes and sings their own material
+29	Q348658	Adam Ant	English musician
+30	Q2259451	stage actor	actor who performs live before an in-person audience
+31	Q41304	Weimar Republic	Germany in the years 1919–1933
+32	Q46	Europe	continent on Earth, mainly on the northeastern quadrant, i.e. north-western Eurasia
+33	Q107933	Jim Belushi	American actor, comedian, singer, and musician
+34	Q245068	comedian	person who seeks to entertain an audience, primarily by making them laugh
+35	Q1779	Louis Armstrong	American jazz trumpeter, composer and singer
+36	Q49085	African Americans	racial or ethnic group in the United States with African ancestry
+37	Q242095	Dino Buzzati	Italian writer (1906-1972)
+38	Q1930187	journalist	person who collects, writes and distributes news and other information
+39	Q55800	Oprah Winfrey	American businesswoman, talk show host, actress, producer, and philanthropist
+40	Q30	United States of America	federal republic in North America
+41	Q25089	Woody Allen	American screenwriter, director, actor, comedian, author, playwright, and musician
+42	Q15981151	jazz musician	musician who plays jazz
+43	Q786	Dominican Republic	country in the Caribbean
+44	Q376150	International Telecommunication Union	specialized agency of the United Nations
+45	Q77888	Wilhelm von Humboldt	German (Prussian) philosopher, government functionary, diplomat, and founder of the University of Berlin
+46	Q37226	teacher	person who helps others to acquire knowledge, competences or values
+47	Q60197	Alfred Einstein	German-American musicologist and music editor
+48	Q49088	Columbia University	private Ivy League research university in New York City
+49	Q312053	Rick Wakeman	English keyboardist, songwriter, television and radio presenter, and author
+50	Q753110	songwriter	person who writes the words or music (or both) to songs
+51	Q41257	Heinrich Rudolf Hertz	German physicist
+52	Q152087	Humboldt University of Berlin	university in Germany
+53	Q184	Belarus	country in Eastern Europe
+54	Q213	Czech Republic	republic in Central Europe
+55	Q311256	Richard Marx	American adult contemporary and pop/rock singer, songwriter, musician and record producer
+56	Q1297	Chicago	city and county seat of Cook County, Illinois, United States
+57	Q7241	Rabindranath Tagore	Bengali poet and philosopher
+58	Q1860	English	West Germanic language originating in England with linguistic roots in French, German and Vulgar Latin
+59	Q929	Central African Republic	country in Africa
+60	Q1049	Sudan	country in Northeast Africa
+61	Q211	Latvia	republic in Northern Europe
+62	Q6714	Wilhelm Grimm	German author
+63	Q182436	librarian	person who works professionally in a library, and is usually trained in librarianship
+64	Q154691	Carlos Fuentes	Mexican writer
+65	Q36180	writer	person who uses written words to communicate ideas and to produce works of literature
+66	Q1624891	Holly Near	American actress, singer and activist
+67	Q721819	Roy Clark	American country music musician and performer
+68	Q423	North Korea	Sovereign state in East Asia
+69	Q1007	Guinea-Bissau	country in Western Africa
+70	Q258	South Africa	republic in Southern Africa
+71	Q843	Pakistan	republic in South Asia
+72	Q77	Uruguay	republic in South America
+73	Q526709	William Dean Howells	author, critic and playwright from the United States
+74	Q712860	Chris Martin	English singer, songwriter, musician, record producer, and philanthropist, co-founder of Coldplay
+75	Q178698	W. H. Auden	Anglo-American poet
+76	Q1622272	university teacher	person teaching at a university
+77	Q434745	Tinashe	American singer-songwriter, record producer, dancer, actress and former model
+78	Q5716684	dancer	person who dances
+79	Q233295	Tila Tequila	American television and social media personality, singer and glamour model
+80	Q13590141	presenter	person who hosts an event, for television presenter see: Q947873
+81	Q49074	Kurt Vonnegut	American writer
+82	Q33760	Bertrand Russell	British philosopher, logician, mathematician, historian, writer, social critic, political activist and Nobel laureate
+83	Q93343	Percy Bysshe Shelley	English Romantic poet
+84	Q888666	Bobby Scott	American recording artist, record producer, and songwriter
+85	Q486748	pianist	musician who plays the piano
+86	Q84423	Martin Buber	German Jewish Existentialist philosopher and theologian
+87	Q16409	Tristan Tzara	Romanian-French Dadaist poet
+88	Q193391	diplomat	person appointed by a state to conduct diplomacy with another state or international organization
+89	Q230	Georgia	republic in the Caucasus region
+90	Q117	Ghana	republic in West Africa
+91	Q561458	Henry Louis Gates	American professor
+92	Q185610	will.i.am	American rapper, singer, businessman and record producer from California
+93	Q3282637	film producer	person who supervises the overall process, creative and financial, of making a film
+94	Q983	Equatorial Guinea	country in Africa
+95	Q2029901	OHADA	system of corporate law and implementing institutions adopted by seventeen West and Central African nations in 1993 in Port Louis, Mauritius
+96	Q1290	Blaise Pascal	French mathematician, physicist, inventor, writer, and Christian philosopher
+97	Q169470	physicist	scientist who does research in physics
+98	Q152301	George Tabori	writer, theatre director
+99	Q184485	performing arts	art forms in which artists use their body or voice to convey artistic expression
+100	Q58062	Georg Forster	German naturalist, ethnologist, travel writer, journalist, and revolutionary
+101	Q2374149	botanist	person who practices botany
+102	Q152513	Henry Wadsworth Longfellow	American poet
+103	Q9049	Noam Chomsky	American linguist, philosopher and activist
+104	Q14467526	linguist	language scholar specialized in linguistics
+105	Q313080	Soulja Boy	American rapper
+106	Q1643790	J. Rodolfo Wilcock	Argentine writer
+107	Q8261	novel	narrative text, normally of a substantial length and in the form of prose describing a fictional and sequential story
+108	Q1276	Leonard Cohen	Canadian poet and singer-songwriter
+109	Q183387	Columbia Records	American record label currently owned by Sony Music Entertainment
+110	Q44414	Trey Parker	American actor, voice artist, animator, screenwriter, director, producer and musician
+111	Q177220	singer	person singing for a listening audience
+112	Q223741	Brian Molko	Belgium-born musician
+113	Q2643890	vocalist	artist using their voice as an instrument
+114	Q550778	John de Lancie	American actor
+115	Q639669	musician	artist who performs or composes music anyone who composes, conducts, or performs music
+116	Q245257	William Styron	American novelist and essayist
+117	Q6882	James Joyce	Irish novelist and poet
+118	Q240808	Maureen Tucker	American musician
+119	Q170576	Milla Jovovich	Ukrainian-born american model and actress
+120	Q1242553	Lonnie Liston Smith	American pianist
+121	Q17172850	voice	human voice as instrument
+122	Q1033	Nigeria	federal republic in West Africa
+123	Q191384	International Bank for Reconstruction and Development	international financial institutions, sells loans to middle-income developing countries, part of the World Bank Group
+124	Q192348	Benedetto Croce	Italian writer, philosopher, politician
+125	Q38	Italy	Republic in Southern Europe, member of the European Union
+126	Q148	People's Republic of China	state in East Asia
+127	Q252	Indonesia	republic in Southeast Asia
+128	Q185724	Mike Myers	Canadian-American actor, comedian, singer, screenwriter, and film producer
+129	Q2526255	film director	occupation of a person who directs a film
+130	Q1010602	Giorgio Gaber	Italian recording artist actor, musician and writer
+131	Q652	Italian	romance language
+132	Q379580	John Muir	Scottish-born American naturalist and author
+133	Q11900058	explorer	person who by means of travel searches out new information
+134	Q83297	John William Strutt, 3rd Baron Rayleigh	English physicist
+135	Q684415	Bavarian Academy of Sciences and Humanities	academy of sciences
+136	Q34	Sweden	constitutional monarchy in Northern Europe
+137	Q408	Australia	Island country in the southern hemisphere
+138	Q237659	Penny Marshall	American actress and film director
+139	Q212	Ukraine	sovereign state in Eastern Europe
+140	Q227	Azerbaijan	republic in Western Asia and Eastern Europe
+141	Q215	Slovenia	republic in Central Europe
+142	Q221	North Macedonia	republic in Southeast Europe
+143	Q236	Montenegro	republic in Southeastern Europe
+144	Q1246	Kosovo	country in Europe with partially recognized sovereignty
+145	Q173637	Ice Cube	American hip hop artist, music producer and actor
+146	Q161806	Académie Française	the pre-eminent French learned body on matters pertaining to the French language a division of "Institut de France"
+147	Q150	French	Romance language
+148	Q219	Bulgaria	republic in Eastern Europe
+149	Q711	Mongolia	country in East Asia, between China and Russia
+150	Q315181	Alexey Vorobyov	Russian singer and actor
+151	Q159	Russia	transcontinental country in Eastern Europe and Northern Asia
+152	Q884	South Korea	republic in East Asia
+153	Q145	United Kingdom	parliamentary democracy and constitutional monarchy in Western Europe formed in 1927
+154	Q398	Bahrain	constitutional monarchy in Southwest Asia
+155	Q42398	Michail Sholokhov	Soviet writer
+156	Q206439	Isaac Hayes	American singer-songwriter, arranger, record producer, and actor
+157	Q2405480	voice actor	person who provides voice-overs for a character in films, animation, video games or in other media
+158	Q101740	Benoit Mandelbrot	Polish-born, French and American mathematician
+159	Q270794	National Academy of Sciences	science branch of the United States National Academies
+160	Q82222	Little Richard	American pianist, singer and songwriter
+161	Q45981	rhythm and blues	genre of popular music that originated in African American communities in the 1940s
+162	Q697	Nauru	republic in Oceania
+163	Q76600	Manfred Eigen	German biophysical chemist
+164	Q463303	American Academy of Arts and Sciences	United States honorary society and center for independent policy research
+165	Q25820	Thomas Young	English polymath
+166	Q4773904	anthropologist	person with an extensive knowledge of anthropology
+167	Q16	Canada	country in North America
+168	Q769	Grenada	country in the Caribbean
+169	Q18814623	autobiographer	person who wrote their autobiography
+170	Q83059	Saul Bellow	Canadian-born American writer
+171	Q82925	Joseph Conrad	Polish-British writer
+172	Q1377612	European Payments Union	European Payments Union
+173	Q40	Austria	federal republic in western-central Europe
+174	Q183	Germany	federal parliamentary republic in central-western Europe
+175	Q228	Andorra	European microstate between France and Spain
+176	Q458	European Union	economic and political union of 27 states mostly located in Europe
+177	Q1028	Morocco	country in North Africa
+178	Q7809	UNESCO	specialized agency of the UN that promotes education, science and culture
+179	Q57075	Fritz Haber	German chemist and receiver of the Nobel prize
+180	Q12152	myocardial infarction	interruption of blood supply to a part of the heart
+181	Q47100	Ben Stiller	actor, comedian, director, writer
+182	Q28389	screenwriter	writer who writes for TV, films, comics and games
+183	Q811	Nicaragua	country in Central America
+184	Q49	North America	continent on the Earth's northwestern quadrant
+185	Q902	Bangladesh	sovereign country in South Asia
+186	Q384535	African Union – United Nations Hybrid Operation in Darfur	military operation
+187	Q819	Laos	republic in Southeast Asia
+188	Q183266	Samuel Johnson	English poet, biographer, essayist, lexicographer
+189	Q164487	Ava Gardner	American actress (1922-1990)
+190	Q4610556	model	person employed to display, advertise and promote products, or to serve as a visual aid
+191	Q833	Malaysia	federal constitutional monarchy in Southeast Asia
+192	Q1030	Namibia	republic in southern Africa
+193	Q155786	Dennis Gabor	Nobel Prize-winning physicist and inventor of holography
+194	Q123885	Royal Society	English learned society for science
+195	Q201656	Nick Jonas	American singer and actor
+196	Q4235	Miley Cyrus	American singer, songwriter and actress
+197	Q41	Greece	republic in Southeast Europe
+198	Q23728	Larry David	American comedian, writer, actor, and television producer
+199	Q231690	Bhimrao Ramji Ambedkar	father of India's Constitution, polymath, revolutionary, social reformer
+200	Q142	France	republic with mainland in Europe and numerous oversea territories
+201	Q19771	G20	group of finance ministers and central bank governors
+202	Q37	Lithuania	republic in Northeastern Europe
+203	Q132537	J. Robert Oppenheimer	American theoretical physicist, known as "father of the atomic bomb"
+204	Q35794	University of Cambridge	collegiate public research university in Cambridge, England, United Kingdom
+205	Q236318	Faith Evans	American recording artist singer
+206	Q850412	contemporary R&B	music genre that combines elements of rhythm and blues, pop, soul, funk, hip hop, and electronic music
+207	Q216195	Tom Wolfe	American author and journalist
+208	Q5686	Charles Dickens	English writer and social critic
+209	Q152293	Aram Khachaturian	Soviet/Armenian composer and conductor
+210	Q9730	classical music	broad tradition of Western art music
+211	Q224	Croatia	republic in Central Europe
+212	Q43	Turkey	country spanning Southeastern Europe and Western Asia
+213	Q878	United Arab Emirates	monarchy in Southwest Asia
+214	Q851	Saudi Arabia	kingdom in Western Asia
+215	Q61863	Ulrich von Wilamowitz-Moellendorff	German classical philologist
+216	Q82955	politician	person involved in politics, person who holds or seeks positions in government
+217	Q1041	Senegal	country in Western Africa
+218	Q50020	John Stuart Mill	British philosopher and political economist
+219	Q42406	English people	nation and ethnic group native to England
+220	Q1016	Libya	country in north Africa
+221	Q965	Burkina Faso	country in Africa
+222	Q7825	World Trade Organization	organization that intends to supervise and liberalize international trade
+223	Q183535	Veniamin Smekhov	Soviet actor
+224	Q800	Costa Rica	country in Central America
+225	Q36268	Brigitte Bardot	French model, actor, singer and animal rights activist
+226	Q46096	Felix Mendelssohn	German composer, pianist and conductor
+227	Q34069	Ashkenazi Jews	Jewish ethnic group
+228	Q4061	Woody Guthrie	American singer-songwriter and folk musician
+229	Q51290	harmonica	free reed wind musical instrument
+230	Q1744	Madonna	American singer, songwriter, and actress
+231	Q207628	musical composition	process of creating works of music
+232	Q103835	Peter Debye	Dutch-American physicist and physical chemist
+233	Q49115	Cornell University	private university in Ithaca (New York, US)
+234	Q96	Mexico	federal republic in the southern portion of North America
+235	Q228787	Jada Pinkett Smith	American actress, singer-songwriter, and businesswoman
+236	Q11399	rock music	genre of popular music that originated as "rock and roll" in 1950s USA
+237	Q957627	Luis Alberto Spinetta	Argentine musician
+238	Q206159	psychedelic rock	style of rock music
+239	Q367634	Big Sean	American rapper and singer
+240	Q11401	hip hop music	music genre consisting of a stylized rhythmic music that commonly accompanies rapping
+241	Q741862	Massimo Bontempelli	Italian writer
+242	Q220	Rome	capital and largest city of Italy
+243	Q77112	David Foster	Canadian musician, record producer, songwriter
+244	Q217787	Carole King	American singer and songwriter
+245	Q36834	composer	musician who is an author of music in any form person who creates music, either by musical notation or oral tradition
+246	Q414	Argentina	country in South America
+247	Q842490	Organisation for the Prohibition of Chemical Weapons	international organization based in The Hague
+248	Q155079	Missy Elliott	American rapper, songwriter and record producer from Virginia
+249	Q10800557	film actor	actor who appears in films
+250	Q159583	Holy See	episcopal jurisdiction of the Catholic Church in Rome, Italy
+251	Q8446	Kurt Cobain	American singer, composer and musician
+252	Q18939491	diarist	person who writes a personal journal
+253	Q344983	Babyface	American singer, songwriter and record producer
+254	Q190585	Island Records	British international record label of Jamaican origin imprint of Island Records Ltd.
+255	Q298	Chile	republic in South America
+256	Q899770	International Centre for Settlement of Investment Disputes	international organization
+257	Q6538	Günter Grass	German novelist, poet, playwright, illustrator, graphic artist, sculptor
+258	Q11774202	essayist	person who writes essays
+259	Q32257	Christoph Wilhelm Hufeland	German physician
+260	Q83172	Russian Academy of Sciences	academy of sciences
+261	Q27	Ireland	republic covering major parts of the island of Ireland
+262	Q813	Kyrgyzstan	republic in Central Asia
+263	Q826	Maldives	island country in Asia
+264	Q66107	Henry Kissinger	United States Secretary of State
+265	Q151164	André Malraux	French novelist, art theorist and politician
+266	Q79	Egypt	country in Africa and Asia
+267	Q215927	Yeshayahu Leibowitz	israeli intellectual
+268	Q593644	chemist	scientist trained in the study of chemistry
+269	Q44426	Rainer Werner Fassbinder	German film director, screenwriter, and actor
+270	Q1726	Munich	city in Bavaria, Germany
+271	Q39	Switzerland	federal State in Central Europe
+272	Q298255	Rob Zombie	American singer and film director
+273	Q59185	Busta Rhymes	American rapper, actor, record producer and record executive
+274	Q4413456	Republic Records	record label, division of Universal Music Group
+275	Q1391164	Tamer Hosny	Egyptian singer, actor, composer, director and songwriter
+276	Q183492	Margaret Atwood	Canadian writer
+277	Q991	Fyodor Dostoyevsky	Russian author
+278	Q204868	Yevgeny Zamyatin	Russian author
+279	Q348497	Ilya Ehrenburg	Russian-Soviet writer and poet
+280	Q6625963	novelist	writer of novels
+281	Q43432	Justin Timberlake	American singer, record producer, and actor
+282	Q37073	pop music	genre of popular music which originated in its modern form in the late-1950s, deriving from rock and roll
+283	Q184440	Jorge Amado	Brazilian writer
+284	Q311145	Joaquim Maria Machado de Assis	Brazilian writer
+285	Q173061	Syd Barrett	English musician, founding member of Pink Floyd
+286	Q186485	Billy Crystal	American actor, comedian, writer, producer, director, and television host
+287	Q1037	Rwanda	country in Africa
+288	Q28	Hungary	republic in Central Europe
+289	Q837	Nepal	country in South Asia
+290	Q345612	Harold Bloom	American literary critic, scholar, and writer
+291	Q49112	Yale University	private research university in New Haven, Connecticut, United States
+292	Q156941	Eduard Suess	Austrian geologist
+293	Q597433	Peter Tork	American musician, singer and actor
+294	Q258896	banjo	musical instrument
+295	Q1785	Charles Aznavour	Armenian-French singer and diplomat
+296	Q5611262	Group on Earth Observations	international organisation tasked with  promoting Earth observation and data sharing between members
+297	Q483507	Kelly Clarkson	American recording artist singer-songwriter, actress, and television personality
+298	Q49767	François-René de Chateaubriand	French writer, politician, diplomat and historian
+299	Q76823	Karl Mannheim	Hungarian-German philosopher and sociologist
+300	Q84	London	capital and largest city of the United Kingdom
+301	Q12706	Maxim Gorki	Russian and Soviet writer
+302	Q229	Republic of Cyprus	island country in the Eastern Mediterranean
+303	Q36	Poland	republic in Central Europe
+304	Q201500	Gerald Wilson	American trumpetist (1918-2014)
+305	Q65	Los Angeles	county seat of Los Angeles County, California second largest city in the United States by population
+306	Q119546	Howard Zinn	American historian, playwright, and socialist thinker
+307	Q733	Paraguay	republic in South America
+308	Q794	Iran	Islamic Republic in Western Asia
+309	Q70855	Friedrich von Raumer	German historian
+310	Q7325	Jewish people	ancient nation and ethnoreligious group from the Levant
+311	Q131149	Henry David Thoreau	American poet, essayist, naturalist, and abolitionist (1817–1862)
+312	Q1586454	Harry Chapin	American musician
+313	Q6711	Allen Ginsberg	American poet
+314	Q578109	television producer	occupation within video production for TV
+315	Q191	Estonia	republic in Northern Europe
+316	Q668	India	federal republic in South Asia
+317	Q782942	Australia Group	multilateral export control regime established in 1985 to help member countries identify exports needing control so as to prevent the spread of chemical and biological weapons
+318	Q42402	Andrea Bocelli	Italian tenor and singer-songwriter
+319	Q38903	Universal Music Group	American music corporation
+320	Q34474	Aleksandr Solzhenitsyn	Russian writer
+321	Q526406	Ric Ocasek	American musician
+322	Q238819	Jay Chou	Taiwanese singer, songwriter, actor
+323	Q231694	Interscope Records	American record label
+324	Q275875	Andriy Danylko	Ukrainian comedian and pop and dance singer
+325	Q168992	Jessica Simpson	American singer-songwriter and actress
+326	Q750	Bolivia	country in South America
+327	Q347	Liechtenstein	principality in western-central Europe
+328	Q179257	Timbaland	American rapper, musician, DJ, record producer, and record executive
+329	Q11366	alternative rock	genre of rock music
+330	Q663492	Eurocontrol	European Organisation for the Safety of Air Navigation
+331	Q944275	James Lighthill	British applied mathematician (1924-1998)
+332	Q233	Malta	island republic in Europe
+333	Q7785	Commonwealth of Nations	intergovernmental organisation
+334	Q912	Mali	republic in West Africa
+335	Q1065	United Nations	global international and intergovernmental organisation
+336	Q251068	Wang Leehom	Taiwanese singer, songwriter, actor
+337	Q229018	Jewel	American singer-songwriter, guitarist, producer, actress, and poet
+338	Q153694	Michael Bublé	Canadian singer, songwriter and actor
+339	Q2086086	Valery Meladze	Russian singer of Georgian descent
+340	Q78487	Robert Musil	Austrian writer
+341	Q482980	author	author or intellectual author of a linguistic work
+342	Q127330	Frank Zappa	American musician, songwriter, composer, and record and film producer
+343	Q66732	Eugen Rosenstock-Huessy	Jewish German American social philosopher
+344	Q2306091	sociologist	scientist working in sociology
+345	Q1020	Malawi	country in Africa
+346	Q8475	Interpol	international law enforcement agency
+347	Q191064	Liv Ullmann	Norwegian actress, writer and film director
+348	Q958	South Sudan	country in Africa
+349	Q157324	François Guizot	French historian, orator, and statesman
+350	Q253439	Royal Netherlands Academy of Arts and Sciences	Society of scientists and institute
+351	Q1032	Niger	republic in Western Africa
+352	Q134102	Organisation internationale de la Francophonie	intergovernmental organization
+353	Q18809	Anatoly Lunacharsky	Russian Marxist revolutionary
+354	Q2370801	Academy of Sciences of the USSR	former Soviet scientific institution
+355	Q104049	Sidney Poitier	American-born Bahamian actor, film director, author, and diplomat
+356	Q691	Papua New Guinea	constitutional monarchy in Oceania
+357	Q31	Belgium	federal constitutional monarchy in Western Europe
+358	Q826700	International Energy Agency	intergovernmental organization
+359	Q403	Serbia	republic in Southeastern Europe
+360	Q854	Sri Lanka	island republic in South Asia
+361	Q78506	Ingeborg Bachmann	Austrian poet and author
+362	Q4964182	philosopher	person with an extensive knowledge of philosophy
+363	Q448837	André 3000	American rapper, singer, record producer, dancer and actor
+364	Q1698	Serge Gainsbourg	French singer, songwriter, pianist, film composer, poet, painter, screenwriter, writer, actor and director
+365	Q1415090	film score composer	musical profession
+366	Q8814	Augustin-Louis Cauchy	French mathematician (1789–1857)
+367	Q180004	Fergie	American singer
+368	Q202585	RCA Records	American record company
+369	Q337234	Academia Europaea	pan-European academy of sciences
+370	Q9364	Jean-Paul Sartre	French existentialist philosopher, playwright, novelist, screenwriter, political activist, biographer, and literary critic
+371	Q90	Paris	capital and largest city of France
+372	Q736	Ecuador	country in South America
+373	Q47152	Mary Shelley	English novelist, short story writer, dramatist, essayist, biographer, and travel writer
+374	Q18844224	science fiction writer	person who writes works of science fiction
+375	Q484302	James Hetfield	American musician, songwriter and record producer
+376	Q262	Algeria	country in North Africa
+377	Q1050	Eswatini	country in Africa
+378	Q232	Kazakhstan	country in Eastern Europe and Central Asia
+379	Q342723	Gene Autry	American actor and singer (1907-1998)
+380	Q2722764	radio personality	person who has an on-air position in radio broadcasting
+381	Q193196	University College London	public research university in London, United Kingdom
+382	Q1350303	Holly Johnson	British artist
+383	Q46185	bass guitar	electric or acoustic bass instrument
+384	Q80596	Arthur Miller	American playwright
+385	Q60	New York City	city in state of New York, largest city in the United States by population
+386	Q726071	Jimmy Buffett	American singer–songwriter and businessman
+387	Q107424	Akiko Yano	Japanese singer-songwriter (1955-)
+388	Q20	Norway	constitutional monarchy in Northern Europe
+389	Q42262	European Space Agency	intergovernmental organisation dedicated to the exploration of space
+390	Q154145	Gabriel Marcel	French philosopher, playwright, music critic and leading Christian existentialist
+391	Q9358	Friedrich Nietzsche	German philosopher, poet, composer, cultural critic, and classical philologist
+392	Q131524	entrepreneur	individual who organizes and operates a business, taking on financial risk to do so
+393	Q184697	Gloria Estefan	Cuban-American singer-songwriter, actress and entrepreneur
+394	Q17	Japan	constitutional monarchy in East Asia
+395	Q702468	Salvador de Madariaga	Spanish diplomat, writer and historian
+396	Q273626	École Polytechnique	French institution of higher education and research in Palaiseau
+397	Q2643	George Harrison	British musician and lead guitarist of the Beatles
+398	Q881	Vietnam	republic in Southeast Asia
+399	Q35	Denmark	sovereign state and Scandinavian country in northern Europe
+400	Q645889	Reprise Records	American record label
+401	Q187884	Jan Rubes	Czech opera singer and actor
+402	Q33946	Czechoslovakia	1918–1992 country in Central Europe, predecessor of the Czech Republic and Slovakia
+403	Q35760	essay	piece of writing often written from an author's personal point of view
+404	Q633	Neil Young	Canadian singer-songwriter
+405	Q183945	record producer	individual who oversees and manages the recording of an artist's music
+406	Q32	Luxembourg	country in Western Europe
+407	Q41550	Organisation for Economic Cooperation and Development	international economic organisation
+408	Q4612	Marlene Dietrich	German-American actress and singer
+409	Q44301	Jim Morrison	American singer (1943-1971)
+410	Q3455803	director	director of a creative work
+411	Q26876	Taylor Swift	American singer-songwriter
+412	Q6607	guitar	fretted string instrument
+413	Q242454	Zemfira	Russian rock musician and songwriter
+414	Q219060	State of Palestine	country in the Middle East
+415	Q194333	Billy Joel	American singer-songwriter and pianist
+416	Q185085	Miguel de Unamuno	Spanish author
+417	Q202550	Dido	English musician
+418	Q664167	Arista	American record label
+419	Q281034	Harry Nilsson	American recording artist singer-songwriter, songwriter
+420	Q29	Spain	constitutional monarchy in Southwest Europe
+421	Q695	Palau	republic in Oceania
+422	Q216341	Connie Francis	American recording artist singer
+423	Q171969	Georges Cuvier	French naturalist, zoologist and paleontologist (1769–1832)
+424	Q543804	German Academy of Sciences Leopoldina	national academy of Germany
+425	Q557	Patti Smith	American singer-songwriter, poet and visual artist
+426	Q202319	Bill Haley	Rock and roll music pioneer
+427	Q296609	Russell Brand	British comedian, actor, and author
+428	Q188771	French Academy of Sciences	learned society, founded in 1666 by Louis XIV at the suggestion of Jean-Baptiste Colbert, to encourage and protect the spirit of French scientific research
+429	Q916	Angola	country in Africa
+430	Q15	Africa	continent on the Earth's northern and southern hemispheres
+431	Q228832	Julia Volkova	Russian singer, member of the duo t.A.T.u
+432	Q484641	pop rock	music genre
+433	Q184535	Sofia Kovalevskaya	Russian mathematician
+434	Q12192	pneumonia	inflammatory condition of the lung
+435	Q760	Saint Lucia	country in the Caribbean
+436	Q349217	Norman Wisdom	English actor, comedian and singer-songwriter
+437	Q43845	businessperson	person involved in activities for the purpose of generating revenue
+438	Q61597	Erika Mann	German actress and writer
+439	Q77087	Klaus Mann	German writer
+440	Q217160	Kenny Rogers	American country singer and songwriter
+441	Q193023	Capitol Records	American record label imprint of Capitol Records, Inc.
+442	Q801	Israel	country in Western Asia
+443	Q9960	Ronald Reagan	40th president of the United States
+444	Q152838	University of Göttingen	university in the city of Göttingen, Germany
+445	Q9047	Gottfried Wilhelm Leibniz	German mathematician and philosopher
+446	Q154561	University of Jena	university located in Jena, Thuringia, Germany
+447	Q754	Trinidad and Tobago	island country in the Caribbean Sea
+448	Q65350	Carl Friedrich von Weizsäcker	German physicist (1912-2007)
+449	Q37767	T. S. Eliot	English author
+450	Q6423963	Anglicanism	Christian denomination branch of Christianity
+451	Q502	Stendhal	French writer
+452	Q312407	John Dos Passos	American novelist, playwright, poet, journalist, painter
+453	Q463281	American Academy of Arts and Letters	honor society
+454	Q905	Franz Kafka	novelist and short story writer
+455	Q12003	Cher	American singer/songwriter and actress
+456	Q858	Syria	republic in Western Asia
+457	Q361257	Shel Silverstein	American poet, cartoonist, and children's writer
+458	Q186327	Marilyn Manson	American rock musician and actor
+459	Q83270	hard rock	genre of rock music often characterized by chordal guitar riffs accompanied by root notes on the bass guitar and "big" drums
+460	Q1019	Madagascar	island nation off the coast of Southeast Africa, in the Indian Ocean
+461	Q424	Cambodia	constitutional monarchy in Southeast Asia
+462	Q212699	Geffen Records	American record label
+463	Q207197	Gene Simmons	Israeli-born American rock bass guitarist, singer-songwriter, record producer, entrepreneur, and actor
+464	Q188648	Raven-Symoné	American entertainer
+465	Q7066	atheism	rejection of belief in the existence of deities
+466	Q216179	Bryan Ferry	English musician
+467	Q162667	Glen Campbell	American musician, songwriter, actor
+468	Q186472	folk rock	fusion genre of folk and rock music
+469	Q1741	Vienna	capital and one of nine States of Austria
+470	Q144622	Phil Collins	English recording artist, musician, songwriter, actor
+471	Q855091	guitarist	person who plays the guitar
+472	Q7314	Igor Stravinsky	Russian composer, pianist and conductor
+473	Q1394	Vladimir Lenin	Russian politician, communist theorist, and founder of the Soviet Union
+474	Q60285	Ernst Troeltsch	German philosopher and theologian
+475	Q889	Afghanistan	republic in South Asia
+476	Q218	Romania	sovereign state in Europe
+477	Q306403	James Franco	American actor, writer, producer, director, and teacher
+478	Q49210	New York University	private research university in New York, NY, United States
+479	Q19526	Maya Angelou	American poet and author
+480	Q554406	Alberto Manguel	writer
+481	Q128297	Maria Callas	American-born Greek operatic soprano
+482	Q503246	Juilliard School	American performing arts conservatory in New York City
+483	Q151118	Katerina Graham	Swiss-born American actress
+484	Q236005	Melanie Brown	English singer, actress and television personality
+485	Q76959	Ralf Dahrendorf	German-British sociologist, politician
+486	Q189	Iceland	island republic in Northern Europe
+487	Q563057	Charlie Rich	American country music singer and musician
+488	Q5994	piano	musical instrument
+489	Q4039	Art Garfunkel	American singer, poet, and actor
+490	Q585643	Atco Records	US record label imprint of Atlantic Recording Corporation
+491	Q254510	Melissa Auf der Maur	Canadian musician, photographer and actress
+492	Q712	Fiji	country in Oceania
+493	Q544387	Ray Charles	American recording artist musician, singer, songwriter
+494	Q686	Vanuatu	country in Oceania
+495	Q5104	Miranda Cosgrove	American actress and singer-songwriter
+496	Q796	Iraq	A country in Western Asia
+497	Q241	Cuba	Country in the Caribbean
+498	Q712914	Jerry Reed	American recording artist country music singer, actor
+499	Q1841	Catholicism	Christian doctrine professed by the Roman Catholic Church
+500	Q450412	Richard Sennett	Sociologist (b.1943)
+501	Q212015	Johnny Hallyday	French recording artist, singer and actor
+502	Q55960555	recording artist	person, musician who performs music for recordings
+503	Q1044	Sierra Leone	republic in West Africa
+504	Q7159	African Union	supranational union
+505	Q30875	Oscar Wilde	Irish writer and poet
+506	Q207544	L. Frank Baum	American children's writer, editor, journalist, screenwriter
+507	Q317397	Uzeyir Hajibeyov	Azerbaijani composer
+508	Q432	Islam	monotheistic religion, founded by Muhammad in the 7th century, based on the teachings of the Quran and the hadiths
+509	Q49084	short story	brief work of literature, usually written in narrative prose
+510	Q1545	Cyndi Lauper	American recording artist singer, songwriter, actress and activist
+511	Q40909	Virginia Woolf	English modernist writer known for use of stream of consciousness
+512	Q229282	Katharine McPhee	American pop singer, songwriter, and actress
+513	Q180962	Norman Mailer	American novelist, journalist, essayist, playwright, film maker, actor and political candidate
+514	Q131333	George Eliot	English novelist, essayist and translator
+515	Q79854	Communist Party of the Soviet Union	political party founded in 1912
+516	Q221074	Bud Spencer	Italian actor, professional swimmer and water polo player
+517	Q45	Portugal	republic in Southwestern Europe
+518	Q153996	Nena	German singer and actress
+519	Q392	Bob Dylan	American recording artist singer-songwriter, musician, author, and artist
+520	Q439315	Jemaine Clement	New Zealand actor and musician
+521	Q16053	Melchior de Vogüé	French diplomat, orientalist, travel writer, archaeologist, philanthropist and literary critic
+522	Q38193	Arthur Schopenhauer	German philosopher
+523	Q1055	Hamburg	city and federal state in Germany
+524	Q123174	Vanessa Hudgens	American actress
+525	Q316930	dance music	music composed specifically to facilitate or accompany dancing
+526	Q5878	Gabriel García Márquez	Colombian writer, journalist and Nobel laureate in literature
+527	Q185465	Paula Abdul	American-Canadian singer and songwriter
+528	Q203059	Virgin Records	UK record company
+529	Q233377	Amerie	American singer-songwriter, record producer, and actress
+530	Q117012	Yoko Ono	Japanese artist, author, and peace activist
+531	Q155152	Polydor Records	multinational record label headquartered in the United Kingdom, owned by Universal Music Group
+532	Q229375	Linda Ronstadt	American singer
+533	Q315222	Ľudovít Štúr	slovak poet, philosopher, linguist, publicist, politician and writer
+534	Q809	Polish	Indo-European language from the West Slavic group spoken in Poland
+535	Q6701	Jacob Grimm	German philologist, linguist, jurist and mythologist
+536	Q333634	translator	person who translates text from one language to another
+537	Q338432	Lincean Academy	academy of sciences
+538	Q200586	Sheryl Crow	American musician and actress
+539	Q151510	Heidelberg University	public research university in Heidelberg, Baden-Württemberg, Germany
+540	Q362332	David Cross	American comedian, writer and actor
+541	Q364875	Todd Rundgren	American musician
+542	Q863	Tajikistan	republic in Central Asia
+543	Q17495	Universal Postal Union	specialized agency of the United Nations focused on cooperation within the postal sector
+544	Q235931	Teena Marie	American singer
+545	Q76791	Ferdinand von Richthofen	German geographer and explorer
+546	Q64	Berlin	capital and largest city of Germany
+547	Q270935	Chris Cornell	American singer-songwriter, musician
+548	Q440996	Marietta Shaginyan	Soviet writer, poet and journalist
+549	Q49757	poet	person who writes and publishes poetry
+550	Q60969	Hermann Burmeister	German Argentine zoologist, entomologist, herpetologist, and botanist
+551	Q4030	Duke Ellington	American jazz musician, composer and band leader
+552	Q47912	lung cancer	cancer in the lung
+553	Q188822	Asian Development Bank	regional development bank
+554	Q355288	Berry Gordy	American record producer, songwriter and founder of Motown record label
+555	Q192185	Aaron Copland	American composer, composition teacher, writer, and conductor
+556	Q12908	George Soros	Hungarian-American business magnate, investor and philanthropist
+557	Q1781	Budapest	capital city of Hungary
+558	Q587361	Rick Rubin	American music producer
+559	Q216364	Epic	American record label
+560	Q963	Botswana	republic in southern Africa
+561	Q76738	Athanasius Kircher	German Jesuit scholar
+562	Q12548	Holy Roman Empire	varying complex of lands that existed from 962 to 1806 in Central Europe
+563	Q228909	Mary J. Blige	American singer-songwriter, record producer, and actress from New York
+564	Q6530	Stanisław Lem	Polish science fiction author, futurologist
+565	Q5891	philosophy	intellectual and/or logical study of general and fundamental problems
+566	Q347685	Korney Chukovsky	Russian writer
+567	Q134180	Truman Capote	American author (1924-1984)
+568	Q892	J. R. R. Tolkien	British philologist and author, creator of classic fantasy works
+569	Q57382	Christa Wolf	German literary critic, novelist, and essayist
+570	Q114	Kenya	republic in East Africa
+571	Q656	Saint Petersburg	federal city in Russia and the former capital
+572	Q709	Marshall Islands	country in Oceania
+573	Q294278	"African, Caribbean and Pacific Group of States"	intergovernmental organization of countries in Africa, the Caribbean, and the Pacific, created by the Georgetown Agreement in 1975, aiming at sustainable development and poverty reduction and greater integration into the world's economy
+574	Q44648	Eric Burdon	English singer-songwriter
+575	Q699541	Geoffrey Ingram Taylor	British mathematician and physicist (1886-1975)
+576	Q191583	Royal Swedish Academy of Sciences	Royal Swedish Academy of Sciences
+577	Q1065956	Charles Rosen	American pianist and writer on music
+578	Q1029	Mozambique	country in Africa
+579	Q155	Brazil	federal republic in South America
+580	Q567	Angela Merkel	Chancellor of Germany
+581	Q467482	Jaan Kaplinski	Estonian poet, philosopher, and culture critic
+582	Q210741	Eric Idle	English actor, comedian, and writer
+583	Q184366	Thomas Henry Huxley	English biologist and comparative anatomist
+584	Q174193	United Kingdom of Great Britain and Ireland	historical sovereign state from 1801 to 1927
+585	Q928	Philippines	republic in Southeast Asia
+586	Q977	Djibouti	country in Africa
+587	Q34969	Benjamin Franklin	American author, printer, political theorist, politician, postmaster, scientist, inventor, civic activist, statesman, diplomat, Founding Father, and a therapist
+588	Q188094	economist	professional in the social science discipline of economics
+589	Q704700	John Hartford	American singer-songwriter and musician
+590	Q233081	Vanessa Carlton	American singer-songwriter
+591	Q277626	A&M Records	American historical record label
+592	Q187019	Philip Roth	American novelist
+593	Q214226	Lauryn Hill	American singer, rapper, songwriter, record producer, actress
+594	Q108560	A. R. Rahman	Indian singer and composer
+595	Q9778	electronic music	music that employs electronic musical instruments, digital instruments and circuitry-based music technology
+596	Q275247	Herbert Grönemeyer	German musician, actor
+597	Q183412	EMI	British music recording and publishing company
+598	Q60586	Barthold Georg Niebuhr	Danish-German statesman and historian
+599	Q75814	Wilhelm Wundt	German physician, physiologist, philosopher and professor
+600	Q778	Bahamas	country in North America
+601	Q2263	Tom Hanks	American actor and producer
+602	Q246731	Theodosius Dobzhansky	geneticist and evolutionary biologist
+603	Q82238	Cliff Richard	British pop singer, musician, and actor
+604	Q123759	Organization of American States	international organization
+605	Q4636	Barbra Streisand	American singer, actress, writer, film producer, and director
+606	Q193803	Roger Penrose	English mathematical physicist, recreational mathematician and philosopher
+607	Q653884	Hispanic America	region comprising the American countries inhabited by Spanish-speaking populations
+608	Q206832	Gaspard Monge	French mathematician, inventor of descriptive geometry and father of differential geometry
+609	Q329464	Royal Prussian Academy of Sciences	academy of sciences
+610	Q183279	Zhores Alfyorov	Soviet and Russian physicist and academic
+611	Q164119	Mark Wahlberg	American actor, television producer and rap musician
+612	Q313849	Ben Moody	American musician, singer, songwriter, record producer, and actor
+613	Q26058	James Maslow	American actor, model, songwriter and singer
+614	Q105756	John Updike	American novelist, poet, short story writer, art critic, and literary critic
+615	Q354033	Joe Walsh	American musician, songwriter, record producer, and actor
+616	Q191480	Ivan Andreyevich Krylov	Russian writer
+617	Q582713	Simon Sechter	Austrian composer
+618	Q180861	Roger Waters	English songwriter, bassist, and lyricist of Pink Floyd
+619	Q23197	Nashville	consolidated city-county in Davidson County, Tennsessee, United States, and the state capital of Tennsessee
+620	Q320895	Geddy Lee	vocalist, bassist, and keyboardist for the Canadian rock group Rush
+621	Q254	Wolfgang Amadeus Mozart	Austrian composer of the Classical period
+622	Q16145150	music pedagogue	profession and academic title
+623	Q974	Democratic Republic of the Congo	country in Central Africa
+624	Q128126	Claude Lévi-Strauss	Belgian anthropologist and ethnologist
+625	Q9235	Georg Wilhelm Friedrich Hegel	German philosopher
+626	Q93996	Ernst Mach	Austrian physicist and university educator
+627	Q121594	professor	academic title at universities and other education and research institutions
+628	Q1000	Gabon	country in Africa
+629	Q47543	Organisation of Islamic Cooperation	international organisation
+630	Q128799	Ricky Martin	Puerto Rican singer, actor, and author
+631	Q297736	Yevgeny Yevtushenko	Russian poet, film director, teacher
+632	Q12144794	prosaist	person who writes in prose
+633	Q43718	Nikolai Gogol	Ukrainian and Russian writer
+634	Q128532	Al Jolson	American entertainer, actor, and singer
+635	Q34266	Russian Empire	former country, 1721–1917
+636	Q5809	Che Guevara	Argentine Marxist revolutionary
+637	Q463501	Valeriya Novodvorskaya	Russian politician
+638	Q233957	Severo Ochoa	Spanish physician
+639	Q5105	Céline Dion	Canadian recording artist singer
+640	Q9592	Catholic Church	communion of Christian Churches led by the Pope, consisting of the Latin Church and 23 Eastern Catholic Churches
+641	Q58720	Mikhail Vassilyevich Lomonosov	Russian polymath
+642	Q4345832	Saint Petersburg Academy of Sciences	historical academy (1724—1917)
+643	Q37621	Thomas Hobbes	English philosopher
+644	Q827525	International Development Association	international financial institution, member of the World Bank Group
+645	Q76409	Charles Bukowski	American writer (1920-1994)
+646	Q163366	Ezra Pound	American poet and critic
+647	Q1468277	Royal Society of Literature	senior literary organisation in Britain
+648	Q236075	Alyson Michalka	American actress and singer
+649	Q189729	Philip Glass	American composer
+650	Q51566	Spike Lee	American film director, film producer, writer, and actor
+651	Q358538	T-Bone Walker	American blues guitarist, singer, songwriter and multi-instrumentalist
+652	Q921	Brunei	country in Asia
+653	Q190231	Adam Lambert	American singer, songwriter
+654	Q93356	Seamus Heaney	Irish poet, playwright, translator, lecturer
+655	Q13371	Harvard University	private research university in Cambridge, Massachusetts, United States
+656	Q201477	Jean-Antoine-Nicolas de Caritat de Condorcet	French philosopher, mathematician, and political scientist
+657	Q67076	Ludwig Geiger	German historian and writer
+658	Q864380	biographer	person who creates biographies
+659	Q234750	Suzi Quatro	American musician, radio host and actress
+660	Q174843	Jeff Bridges	American actor, singer-songwriter and producer
+661	Q33231	photographer	person who takes photographs
+662	Q8341	jazz	musical style, genre, and theory
+663	Q311223	Edward Sabine	British Army general
+664	Q161885	Great Britain	historical constitutional monarchy in Western Europe (1707–1801)
+665	Q5354	Ernst Mayr	German-American Evolutionary Biologist
+666	Q199943	Adriano Celentano	Italian singer, songwriter, comedian, actor, film director and television host
+667	Q1043527	Multilateral Investment Guarantee Agency	Multilateral Investment Guarantee Agency
+668	Q47162	Romain Rolland	French author
+669	Q6060	50 Cent	American rapper, singer, songwriter, actor, television producer, entrepreneur and investor
+670	Q742634	Augusto Righi	Italian physicist
+671	Q3603946	Accademia Nazionale delle Scienze detta dei XL	Italy's national academy of sciences
+672	Q102289	Buckminster Fuller	American architect, systems theorist, author, designer, inventor and futurist
+673	Q162202	Nicki Minaj	Trinidad and Tobago-born rapper, singer and actress
+674	Q986	Eritrea	country in the Horn of Africa
+675	Q783992	Burton Cummings	Canadian musician
+676	Q263696	Debbie Reynolds	American actress, singer, and dancer
+677	Q55207	Nikita Mikhalkov	Soviet and Russian filmmaker and actor
+678	Q44519	Selma Lagerlöf	Swedish writer
+679	Q12202	stroke	cause for hospitalization or death
+680	Q34981	Isaac Asimov	American writer and professor
+681	Q153248	Marguerite Duras	French writer and film director
+682	Q64238	George Henschel	German-born British baritone, pianist, conductor, and composer
+683	Q1231865	pedagogue	person working in the academic field of pedagogy
+684	Q214	Slovakia	republic in Central Europe
+685	Q220078	Kingsley Amis	English novelist, poet, critic, teacher
+686	Q4263842	literary critic	cultural journalist who reviews new literary books
+687	Q9759	blues	musical form and a music genre
+688	Q49355	James Bryant Conant	American chemist
+689	Q151593	Olivier Messiaen	French composer, organist and ornithologist
+690	Q1444	organ	musical keyboard instrument
+691	Q43203	Clint Eastwood	American actor, filmmaker, musician, and politician
+692	Q106662	John Lydon	English musician
+693	Q230445	Sara Bareilles	American recording artist pop rock singer-songwriter and pianist
+694	Q174710	"University of California, Los Angeles"	public research university in Los Angeles, California, United States
+695	Q60059	Albertus Magnus	Dominican friar
+696	Q16031530	music theorist	person who studies music theory
+697	Q954	Zimbabwe	republic in southern Africa
+698	Q8772	Joseph Fourier	French mathematician and physicist
+699	Q3621491	archaeologist	person studying human activity in the past
+700	Q131324	Janet Jackson	American singer, songwriter and actress from Indiana
+701	Q350979	zoologist	someone who studies or practices zoology
+702	Q2599	Paul McCartney	English singer-songwriter and composer, bassist of The Beatles
+703	Q288928	agnosticism	view that certain metaphysical claims – such as the existence of God or the supernatural – are unknown and perhaps unknowable
+704	Q5383	David Bowie	British singer, musician, and actor
+705	Q1641839	experimental rock	type of music based on rock
+706	Q1353559	Mort Shuman	American singer, pianist and songwriter
+707	Q42904	Dima Bilan	Russian singer, record producer, songwriter, model and actor
+708	Q717	Venezuela	country in northern South America
+709	Q7197	Simone de Beauvoir	French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist
+710	Q363371	Yegor Letov	Russian musician, poet, and painter
+711	Q158354	Pavel Jozef Šafárik	Slovak poet, linguist, literature historian, publicist, educator, publicist, translator, writer and science writer
+712	Q60052	Gustav Kirchhoff	German physicist
+713	Q263730	Alejandro Jodorowsky	Chilean-French filmmaker
+714	Q274429	Édouard René de Laboulaye	French politician
+715	Q82110	Steven Seagal	American actor, martial artist, and film producer
+716	Q34970	D. H. Lawrence	English novelist, poet, playwright, essayist, literary critic and painter
+717	Q121926	Henry Louis Le Châtelier	French chemist
+718	Q202801	Vanessa Williams	American actress, singer  and former Miss America
+719	Q35332	Brad Pitt	American actor and filmmaker
+720	Q448764	Stephen Spender	English poet and man of letters
+721	Q459620	Deutsche Akademie für Sprache und Dichtung	society of writers and scholars on matters pertaining to German language and literature in the German sprachraum
+722	Q366012	Avery Brooks	American actor, director, musician, singer, and professor
+723	Q365682	Gordon Parks	American photographer, musician, writer and film director
+724	Q34660	J. K. Rowling	English novelist
+725	Q60970	Sakis Rouvas	Greek recording artist
+726	Q49017	Hugh Laurie	English actor, comedian, writer, musician and director
+727	Q94701	Heinrich Brunner	German historian
+728	Q229379	Lil' Kim	American rapper, actress and model from New York
+729	Q187832	Mandy Moore	American singer and actress
+730	Q340016	Denis Johnson	American writer (novel, drama, poetry, essay)
+731	Q189081	Howard Hughes	American aviator, engineer, industrialist, and film producer
+732	Q29468	Republican Party	political party in the United States
+733	Q265252	Buckethead	American musician and songwriter
+734	Q163829	synthesizer	electronic instrument capable of producing a wide range of sounds
+735	Q104109	Mary Pickford	Canadian-American actress
+736	Q200464	Portuguese Empire	global empire centered in Portugal
+737	Q48	Asia	continent, mainly on the Earth's northeastern quadrant
+738	Q273981	Tionne Watkins	American singer-songwriter, the "T" in the girl-group TLC
+739	Q7833	Boris Vian	French polymath: writer, poet, musician, singer, translator, critic, actor, inventor and engineer
+740	Q131814	Tina Turner	American singer, dancer, actress, and author naturalized citizen of Switzerland
+741	Q381944	Eldar Ryazanov	Soviet and Russian film director
+742	Q924232	Vince Gill	American musician
+743	Q190220	Philip Pullman	English author
+744	Q4853732	children's writer	writer of literature targeted primarily at children
+745	Q33391	Leon Trotsky	Marxist revolutionary from Russia
+746	Q47064	military personnel	member of the armed forces
+747	Q484523	Jared Leto	American actor and musician
+748	Q155375	Archibald Hill	English physiologist and biophysicist
+749	Q340195	African Development Bank	multilateral development finance institution
+750	Q47087	Arthur C. Clarke	British science fiction writer, science writer, inventor, undersea explorer, and television series host
+751	Q484292	Chinghiz Aitmatov	Soviet writer
+752	Q313281	Michel Legrand	French composer, arranger, conductor, light orchestra leader, jazz pianist
+753	Q150630	Camillo Golgi	Italian physician, pathologist, scientist, and Nobel laureate
+754	Q414188	Göttingen Academy of Sciences	Göttingen Academy of Sciences
+755	Q79025	Walter Scott	Scottish historical novelist, playwright, and poet
+756	Q241660	Angie Stone	American singer and actress
+757	Q1005	Gambia	country in West Africa
+758	Q154353	François Arago	French mathematician, physicist, astronomer and politician
+759	Q232456	Macy Gray	American singer-songwriter and actress
+760	Q189172	Andrey Korotayev	Russian anthropologist, economic historian, comparative political scientist, and sociologist
+761	Q154959	Hugo Grotius	Dutch jurist and scholar
+762	Q298025	Joss Whedon	American director, writer, and producer
+763	Q152453	Keri Hilson	American singer, songwriter and actress from Georgia
+764	Q270123	Kiely Williams	American singer
+765	Q11637	Judy Garland	American actress, singer and vaudevillian
+766	Q267406	Vitamin C	American singer and actress
+767	Q167997	Otto Schmidt	Russian mathematician
+768	Q312720	Robert Penn Warren	American poet, novelist, and literary critic
+769	Q1093318	Celeste Buckingham	Slovak singer and songwriter
+770	Q131272	soul music	genre of music
+771	Q465636	Doc Watson	American guitarist, songwriter and singer
+772	Q5879	Johann Wolfgang von Goethe	German writer, artist and politician
+773	Q364131	Bob Seger	American singer-songwriter
+774	Q76490	Helge Schneider	German comedian, jazz musician and multi-instrumentalist, author, film and theatre director and actor
+775	Q191020	Gary Becker	American economist
+776	Q58328	Jean-Baptiste Biot	French scientist
+777	Q2656667	Ulf Ekberg	Swedish musician
+778	Q453288	George Steiner	American writer
+779	Q190772	Siméon Denis Poisson	French mathematician, mechanician and physicist
+780	Q217619	Anthony Burgess	English writer (1917-1993)
+781	Q258846	Rickie Lee Jones	American musician and songwriter
+782	Q129119	Ruslana	Ukrainian singer
+783	Q38875	Mos Def	American rapper and actor from New York
+784	Q57535	Sebastian Haffner	German journalist and author
+785	Q334180	Xavier Cugat	musician (1900-1990)
+786	Q233253	June Carter Cash	American singer, songwriter and actress
+787	Q317427	Donovan	Scottish singer, songwriter and guitarist
+788	Q967	Burundi	country in Africa
+789	Q33	Finland	republic in Northern Europe
+790	Q106762	George Porter, Baron Porter of Luddenham	British chemist
+791	Q83326	Béla Bartók	Hungarian composer and pianist
+792	Q14915627	musicologist	occupation
+793	Q242418	Janel Parrish	American musician
+794	Q234388	Rebbie Jackson	singer from the United States
+795	Q349461	Randy Jackson	American singer and musician
+796	Q335680	Jimmy Fallon	American talk show host and comedian
+797	Q947873	television presenter	person who introduces or hosts television programs
+798	Q41239	Konstantin Eduardovich Tsiolkovskii	Russian and Soviet rocket scientist and pioneer of the astronautic theory
+799	Q170790	mathematician	person with an extensive knowledge of mathematics
+800	Q853	Andrei Tarkovsky	Soviet and Russian film-maker, writer, film editor, film theorist, theatre and opera director
+801	Q649	Moscow	capital city and the largest city of Russia separate federal subject of Russia
+802	Q34584	Anastacia	American singer-songwriter
+803	Q211756	dance-pop	dance-oriented pop music
+804	Q29999	Kingdom of the Netherlands	sovereign state in Western Europe and the Caribbean
+805	Q273055	R. Kelly	American singer, record producer, songwriter, actor and basketball player from Illinois
+806	Q27184	Jive	American record label
+807	Q93166	Milan Kundera	Czech author of Czech and French literature
+808	Q4985	Herman Melville	American novelist, short story writer, essayist, and poet
+809	Q154203	Albert Lortzing	German opera composer
+810	Q7245	Mark Twain	American author and humorist
+811	Q72334	Toni Morrison	Afro-American writer
+812	Q168728	Robert Frost	American poet
+813	Q9711	Honoré de Balzac	French writer
+814	Q121842	French people	People from France
+815	Q152929	Meat Loaf	American musician, singer, songwriter, record producer and actor
+816	Q43327	Motown	American record label
+817	Q150651	George Carlin	American stand-up comedian
+818	Q13235160	producer	individual or organization that creates goods and services
+819	Q181659	Ursula K. Le Guin	American writer
+820	Q8016	Winston Churchill	British politician, army officer, and writer
+821	Q164824	Jean-Baptiste Dumas	French chemist
+822	Q230395	Meaghan Jette Martin	American musician and actor
+823	Q14045	Moby	American recording artist musician, DJ, singer, songwriter
+824	Q130857	disc jockey	person who plays recorded music for an audience
+825	Q204019	M.I.A.	rapper
+826	Q2252262	rapper	artist who speaks rhymes in a rhythm over music
+827	Q156193	Pierre Boulez	French composer, conductor, writer, and pianist
+828	Q685	Solomon Islands	country in Oceania
+829	Q354508	Sun Ra	American jazz composer and bandleader
+830	Q806349	bandleader	leader of a band of musicians
+831	Q28480	Max Brod	author, composer, and journalist
+832	Q1085	Prague	capital city of the Czech Republic
+833	Q153232	Jean Le Rond d'Alembert	French philosopher
+834	Q395	mathematics	science of abstract objects and structures
+835	Q342778	Pat Boone	American recording artist singer
+836	Q208909	Parlophone	German-British record label
+837	Q47447	Ed Sheeran	English singer-songwriter, record producer, guitarist and actor
+838	Q164396	Victor Ambartsumian	Soviet astrophysicist
+839	Q298761	Clive Barker	author, film director and visual artist
+840	Q483501	artist	person who creates, practises and/or demonstrates any art
+841	Q61064	Wassily Kandinsky	Russian painter
+842	Q81082	Henri Poincaré	French mathematician, physicist, engineer, and philosopher of science
+843	Q5682	Miguel de Cervantes	Spanish novelist, poet, and playwright
+844	Q10681	Alan Stivell	Breton musician and singer
+845	Q107420	Sheldon Lee Glashow	American theoretical physicist
+846	Q901	scientist	person who studies a science
+847	Q151523	György Lukács	Hungarian marxist politician, philosopher and literary critic
+848	Q1425328	USSR Union of Writers	creative union of professional writers in the Soviet Union
+849	Q736099	Renato Carosone	Italian musician band leader, pianist, singer
+850	Q233611	International Hydrographic Organization	Intergovernmental organization
+851	Q419	Peru	republic in South America
+852	Q9312	Immanuel Kant	German philosopher
+853	Q27306	Kingdom of Prussia	former German state (1701–1918)
+854	Q1151944	Mary-Kate Olsen	American actress, fashion designer, producer, author, and businesswoman
+855	Q3501317	fashion designer	one who designs clothing and related items
+856	Q237833	George Santayana	Spanish-American philosopher
+857	Q1938003	Phi Beta Kappa Society	honor society for the liberal arts and sciences in the United States
+858	Q164784	Jean Gaston Darboux	French mathematician
+859	Q16345	Leonard Nimoy	American actor, film director, poet, musician and photographer
+860	Q39658	Carl Peter Thunberg	Swedish naturalist
+861	Q80424	Nelly Furtado	Canadian singer-songwriter, record producer, musician and actress
+862	Q43343	contemporary folk music	the genre that evolved from folk music during the 20th century folk revival
+863	Q44461	Richard Dawkins	English ethologist, evolutionary biologist and author
+864	Q9391	Ludwig Wittgenstein	Austrian-British philosopher
+865	Q214917	playwright	person who writes plays
+866	Q231487	Monica	American recording artist singer, songwriter, actress, and businesswoman
+867	Q216288	Garth Brooks	American country music singer
+868	Q34743	Rudyard Kipling	English short-story writer, poet, and novelist
+869	Q105118	Sidney Sheldon	American writer (1917-2007)
+870	Q221546	Jason Newsted	American musician
+871	Q1133657	traditional heavy metal	genre of heavy metal music
+872	Q812155	Bavarian Academy of Fine Arts	German association
+873	Q310060	Crispin Glover	American film actor, director, screenwriter, recording artist, publisher, and author
+874	Q171905	Jamie Foxx	American actor, comedian, singer, and broadcaster from Texas
+875	Q44403	Heinrich Heine	German poet, journalist, essayist, and literary critic
+876	Q5679	Lord Byron	English poet and a leading figure in the Romantic movement
+877	Q128560	Graham Greene	English writer, playwright and literary critic
+878	Q774	Guatemala	republic in Central America
+879	Q836	Myanmar	sovereign state in Southeast Asia
+880	Q287607	Rob Reiner	American actor and director
+881	Q123225	Albrecht von Haller	Swiss anatomist, physiologist, naturalist and poet
+882	Q231276	Angélique Kidjo	Beninese recording artist musician
+883	Q2490358	choreographer	person who creates choreographies
+884	Q935369	Daniel Lanois	Canadian record producer, singer-songwriter, musician
+885	Q153243	Josiah Willard Gibbs	physicist
+886	Q1042	Seychelles	island country to the East of Africa
+887	Q496967	Alliance of Small Island States	Alliance of Small Island States
+888	Q225	Bosnia and Herzegovina	republic in Southeast Europe
+889	Q21	England	home nation of the United Kingdom
+890	Q12658	Wilhelm Ostwald	Baltic German chemist
+891	Q52954	keyboard instrument	class of musical instrument which is played using a musical keyboard
+892	Q917	Bhutan	country in South Asia
+893	Q7243	Leo Tolstoy	Russian writer
+894	Q563	Brigitte Fontaine	French poet and artist
+895	Q9288	Hebrew	Semitic language spoken primarily in Israel
+896	Q192515	Jason Mraz	American singer-songwriter
+897	Q202440	Atlantic Records	American record label
+898	Q44481	Pierre-Simon Laplace	French mathematician and astronomer
+899	Q159636	Joseph Priestley	English theologian, chemist, educator, and political theorist
+900	Q164384	Theodore von Kármán	Hungarian-American mathematician, aerospace engineer and physicist
+901	Q126399	Warner Bros.	American producer of film, television, and music entertainment
+902	Q31164	Ellie Goulding	English singer and songwriter
+903	Q1327329	multi-instrumentalist	musician who plays two or more musical instruments with some degree of proficiency
+904	Q47667	Hu Shih	Chinese philosopher, essayist and diplomat
+905	Q15646111	Academy of Arts of the GDR	Academy of Arts of the GDR
+906	Q766	Jamaica	country in the Caribbean
+907	Q244234	John Turturro	American actor, writer and director
+908	Q314424	Mark Salling	American actor and musician (1982-2018)
+909	Q165706	Rodion Shchedrin	Russian composer
+910	Q60025	Hannah Arendt	Jewish-American political theorist
+911	Q214677	Nora Ephron	American film director and writer
+912	Q180224	Lenny Kravitz	American singer-songwriter and multi-instrumentalist
+913	Q213512	Bill Cosby	American actor, comedian, author, producer, musician, activist, sex offender
+914	Q81752	Anton Bruckner	Austrian composer
+915	Q131964	Austrian Empire	monarchy in Central Europe between 1804 and 1867
+916	Q9798	saxophone	type of musical instrument of the woodwind family
+917	Q356986	Levon Helm	American musician and actor (1940-2012)
+918	Q128309	drum kit	collection of drums and other percussion instruments
+919	Q104081	Mickey Rooney	American film actor (1920-2014)
+920	Q286339	Yvonne De Carlo	Canadian-American actress, dancer, and singer
+921	Q235066	Laurie Anderson	American musician
+922	Q45970	Czesław Miłosz	Polish poet, diplomat, prosaist, writer, and translator. Nobel Prize winner
+923	Q201927	David Hasselhoff	American actor, singer, producer, and businessman
+924	Q75809	Lutheranism	branch of Protestantism based on the teachings of Martin Luther
+925	Q130742	Alanis Morissette	Canadian-American singer-songwriter
+926	Q9067	Hungarian	language spoken in and around Hungary
+927	Q294927	Jerry Lewis	American comedian, actor, film producer, writer and film director
+928	Q188492	Seth MacFarlane	American animator, actor, singer and television producer
+929	Q234169	Irene Cara	American recording artist singer and actress
+930	Q47243	Elfriede Jelinek	Austrian writer
+931	Q1006	Guinea	country in Africa
+932	Q80938	John Travolta	American actor, dancer and singer
+933	Q160433	Gilbert Bécaud	French singer, musician, and actor
+934	Q19201	Mike Shinoda	American musician
+935	Q1001	Mohandas Karamchand Gandhi	pre-eminent leader of Indian nationalism during the British Raj
+936	Q185351	jurist	legal scholar or academic, a professional who studies, teaches, and develops law
+937	Q41042	Harold Pinter	English playwright (1930-2008)
+938	Q160333	Prosper Mérimée	French writer, historian, and translator
+939	Q188176	William S. Burroughs	American novelist, short story writer, essayist, painter, and spoken word performer
+940	Q108941	Carrie Fisher	American actress, screenwriter and novelist
+941	Q869	Thailand	constitutional monarchy in Southeast Asia
+942	Q223875	Erykah Badu	American neo-soul singer
+943	Q805	Yemen	republic in Western Asia
+944	Q42831	Ivan Turgenev	Russian writer
+945	Q380407	Nikolai Fomenko	Russian entertainer and businessman
+946	Q118233	Sergey Kuryokhin	Russian musician (1954-1996)
+947	Q316872	Afrika Bambaataa	American DJ, record producer and activist
+948	Q722202	Yoram Kaniuk	Israeli writer and painter
+949	Q1028181	painter	artist who practices painting
+950	Q16323111	peace activist	activist focused on avoiding war
+951	Q165745	Mercury Records	record label
+952	Q3088816	Jim Messina	American musician
+953	Q81096	engineer	professional practitioner of engineering and its sub classes
+954	Q12204	tuberculosis	infectious disease caused by the bacterium Mycobacterium tuberculosis
+955	Q63078	Hermann Usener	German classical philologist
+956	Q43287	German Empire	empire in Central Europe between 1871–1918
+957	Q237654	Lisa Loeb	American singer-songwriter and actress
+958	Q1282910	Eddie Money	American rock musician and singer–songwriter
+959	Q191719	Zooey Deschanel	American actress, musician, and singer-songwriter
+960	Q104154	Urbain Le Verrier	French astronomer
+961	Q220480	Zora Neale Hurston	African American folklorist, novelist, short story writer, and Civic Rights advocate
+962	Q42493	Katy Perry	American singer, songwriter and actress
+963	Q1298934	synth-pop	music genre in which the synthesizer is a key instrument
+964	Q1151	Hector Berlioz	French Romantic composer
+965	Q214548	Andy Williams	American recording artist singer, songwriter, actor and record producer
+966	Q365042	Bret Michaels	American musician, actor, and director
+967	Q107008	Count Basie	American jazz musician, bandleader, and composer
+968	Q37160	David Hume	Scottish philosopher, economist, and historian
+969	Q33866	Theodore Roosevelt	American politician, 26th President of the United States (in office from 1901 to 1909)
+970	Q61	Washington, D.C.	capital city of the United States
+971	Q107002	Evelyn Waugh	British writer
+972	Q158175	Kid Rock	American musician and rapper
+973	Q9648008	banjoist	person who plays the banjo
+974	Q150767	Benjamin Britten	English composer, conductor, and pianist
+975	Q181754	heart failure	condition in which the heart is unable to provide sufficient pump action
+976	Q265058	Hungarian Academy of Sciences	Hungarian Academy of Sciences
+977	Q54828	Ivan Yefremov	Soviet paleontologist, science fiction author and social thinker
+978	Q1036	Uganda	republic in East Africa
+979	Q76892	Friedrich Carl von Savigny	German jurist
+980	Q188482	Robin Gibb	British-Australian singer, songwriter and Bee Gees co-founder
+981	Q1344	opera	artform combining sung text and musical score in a theatrical setting
+982	Q953	Zambia	republic in southern Africa
+983	Q320146	Léo Ferré	French-born Monégasque poet and singer
+984	Q792	El Salvador	country in Central America
+985	Q582152	Yuri Vizbor	Soviet bard (1934-1984)
+986	Q232214	Julieta Venegas	US-born Mexican singer-songwriter, recording artist
+987	Q69631	Harald Weinrich	German classical scholar
+988	Q202660	Collège de France	higher education and research establishment
+989	Q174210	Julio Cortázar	Argentinian and French writer
+990	Q1011	Cape Verde	country comprising ten islands off the Western coast of Africa
+991	Q214549	Joseph Liouville	French mathematician
+992	Q15180	Soviet Union	1922–1991 country in Europe and Asia
+993	Q882	Charlie Chaplin	British comic actor and filmmaker
+994	Q958578	Lloyd Price	American singer, songwriter
+995	Q214574	Jan Josef Liefers	German actor and singer
+996	Q16473	Steve Martin	American actor, comedian, musician, author, playwright, and producer
+997	Q181683	Carly Simon	American singer-songwriter, musician and author
+998	Q201221	Alexander Ivanovich Herzen	Russian author, philisopher, revolutioner
+999	Q40479	David Mitchell	English novelist
+1000	Q36591	Vladimir Nabokov	Russian-American novelist, lepidopterist, professor
+1001	Q128746	Irving Berlin	Russian born American songwriter
+1002	Q239652	Bulat Okudzhava	Russian writer and singer
+1003	Q14278	John Frederick William Herschel	English polymath, mathematician, astronomer, chemist, inventor and photographer
+1004	Q466089	American Philosophical Society	United States scholarly organization  that promotes knowledge in the sciences and humanities
+1005	Q1976514	Anatoly Krupnov	musician and poet (1965-1997)
+1006	Q64406	Henrik Steffens	German philosopher
+1007	Q37876	Natalie Portman	Israeli-American actress
+1008	Q257302	LeToya Luckett	American R&B singer-songwriter and actress
+1009	Q272208	Montparnasse Cemetery	cemetery in the Montparnasse quarter of Paris, France
+1010	Q81299	Organization for Security and Co-operation in Europe	security-oriented intergovernmental organization
+1011	Q215546	Carrie Underwood	American country music singer
+1012	Q9061	Karl Marx	German philosopher, economist, sociologist, journalist and revolutionary socialist
+1013	Q210172	Kevin Jonas	American musician
+1014	Q1025	Mauritania	Islamic republic in Africa
+1015	Q67526	Wolfgang Schadewaldt	German classical philologist, literary theorist and translator
+1016	Q101638	Mary Wollstonecraft	English writer, philosopher, women's rights advocate (1759-1797)
+1017	Q714845	The Edge	Irish rock musician, guitar player of U2
+1018	Q657	Chad	country in central Africa
+1019	Q83557	Nikolay Basov	Soviet physicist
+1020	Q132952	Adam Sandler	American actor, comedian, screenwriter, and producer
+1021	Q44412	Hans Christian Ørsted	Danish physicist and chemist
+1022	Q269890	Don Rickles	American stand-up comedian
+1023	Q95089	Ginger Rogers	American actress and dancer
+1024	Q172632	Amy Lee	American singer-songwriter and pianist
+1025	Q430922	Paul Reiser	American actor and comedian
+1026	Q336640	David Byrne	Scottish-American musician
+1027	Q19723482	mandolinist	musician who plays the mandolin
+1028	Q2622688	Mikhail Zadornov	Soviet and Russian stand-up comedian and writer
+1029	Q289003	Myles Kennedy	American musician
+1030	Q100	Boston	city in and state capital of Massachusetts, United States
+1031	Q231207	Charlotte Church	Welsh singer-songwriter
+1032	Q107432	Charles Mingus Jr.	American jazz double bassist, composer and bandleader
+1033	Q7200	Alexander Pushkin	Russian poet
+1034	Q482	poetry	form of literary art
+1035	Q12799318	powest	form of prosaic literature, longer than a short story and a novella but shorter than a novel
+1036	Q104358	Billie Holiday	American jazz singer and songwriter
+1037	Q128759	Stanislao Cannizzaro	Italian chemist
+1038	Q47484	André Gide	French novelist and essayist
+1039	Q295502	Darren Criss	American actor and singer
+1040	Q1027	Mauritius	country in the Indian Ocean
+1041	Q165911	Usher	American singer, songwriter, dancer and actor
+1042	Q970	Comoros	sovereign archipelago island nation in the Indian Ocean
+1043	Q137042	Nat King Cole	American singer and jazz pianist
+1044	Q231942	Natalie Cole	American singer and songwriter
+1045	Q168419	Jérôme Lalande	French astronomer
+1046	Q160640	Raymond Aron	French philosopher, sociologist, journalist, and political scientist
+1047	Q150445	Camille Saint-Saëns	French composer, organist, conductor, and pianist of the Romantic era
+1048	Q9734	symphony	extended musical composition
+1049	Q816706	Southern African Development Community	intergovernmental trade and development body
+1050	Q483907	Jack Black	American actor, comedian, musician, music producer, and YouTuber
+1051	Q29552	Democratic Party	political party in the United States
+1052	Q13909	Angelina Jolie	American actress, film director and screenwriter
+1053	Q170481	Asia-Pacific Economic Cooperation	international economic forum
+1054	Q231228	Solange Knowles	American musician
+1055	Q15935	Kanye West	American rapper, record producer, singer, fashion designer, businessman, and actor
+1056	Q1268	Frédéric Chopin	Polish composer and pianist
+1057	Q140694	Alexis de Tocqueville	French political thinker and historian
+1058	Q26695	Lionel Richie	American singer-songwriter, musician, record producer and actor
+1059	Q154759	Sven Hedin	Swedish geographer, photographer
+1060	Q311672	Roger Daltrey	English lead vocalist of The Who
+1061	Q1045	Somalia	federal republic in Africa
+1062	Q19504	Fritz Lang	Austrian-American filmmaker, screenwriter, and occasional film producer and actor
+1063	Q35385	Glukoza	Russian singer
+1064	Q822	Lebanon	republic in Western Asia
+1065	Q8873	Satyajit Ray	Indian author, poet, composer, lyricist, filmmaker
+1066	Q153776	Dmitri Kabalevsky	Russian composer
+1067	Q217280	Joss Stone	English singer and actress
+1068	Q48337	Morgan Freeman	American actor, film director, and narrator
+1069	Q371403	Kyle Gass	American musician
+1070	Q948329	character actor	actor who predominantly plays unusual or eccentric characters
+1071	Q102711	Dennis Hopper	American actor and film director (1936-2010)
+1072	Q126462	Thomas Paine	English and American political activist
+1073	Q7976	American English	set of dialects of the English language spoken in the United States
+1074	Q292373	Barbara Mandrell	American country music singer and actress
+1075	Q757	Saint Vincent and the Grenadines	country in the Caribbean
+1076	Q131259	Alexander Rybak	Norwegian singer, actor, violinist, composer, pianist
+1077	Q262354	Taraneh Javanbakht	Iranian scientist and polymath
+1078	Q78496	Konrad Lorenz	Austrian zoologist, winner of the Nobel Prize in Physiology or Medicine in 1973
+1079	Q354783	Amiri Baraka	African-American writer
+1080	Q214665	Nino Rota	Italian composer (1911-1979)
+1081	Q948	Tunisia	country in Northern Africa
+1082	Q11998	Kylie Minogue	Australian-British singer, recording artist, songwriter and actress
+1083	Q23517	Ricky Gervais	English comedian, actor, director, producer, musician, writer, and former radio presenter
+1084	Q19810	Victoria Beckham	English businesswoman, fashion designer and singer
+1085	Q72984	Bing Crosby	American singer and actor
+1086	Q34424	Shakira	Colombian singer
+1087	Q553276	Steve Allen	American comedian, actor, musician and writer
+1088	Q467519	Randy Travis	American singer
+1089	Q83440	country music	genre of American popular music
+1090	Q3816	George Sand	French novelist and memoirist pseudonym of Lucile Aurore Dupin
+1091	Q51101	Jolin Tsai	Taiwanese singer, songwriter, and actress
+1092	Q25120	Pier Paolo Pasolini	Italian film director, poet, writer and intellectual
+1093	Q2831	Michael Jackson	American recording artist singer and songwriter
+1094	Q36233	Václav Havel	playwright, essayist, poet, former dissident and 1st President of the Czech Republic
+1095	Q9387	Max Weber	German sociologist, philosopher, and political economist
+1096	Q40348	lawyer	legal professional who helps clients and represents them in a court of law
+1097	Q318475	Randy Newman	American singer-songwriter
+1098	Q78505	Peter Lorre	Austrian actor (1904-1964)
+1099	Q296872	Barry Gibb	British singer, songwriter, record producer, and co-founder of the group Bee Gees
+1100	Q5752	Peter Kropotkin	Russian zoologist, evolutionary theorist, philosopher, scientist, revolutionary, economist, activist, geographer, writer
+1101	Q222	Albania	republic in Southeast Europe
+1102	Q58612	Yehuda Amichai	Israeli poet
+1103	Q158060	W.E.B. Du Bois	American sociologist, historian, activist and writer
+1104	Q19074	Samuel P. Huntington	American political scientist
+1105	Q353442	Gabriel Lamé	French mathematician
+1106	Q864503	biologist	scientist studying living organisms
+1107	Q14441	Liza Minnelli	American actress and singer
+1108	Q40874	Doris Lessing	British novelist, poet, playwright, librettist, biographer and short story writer
+1109	Q332032	Alice Cooper	American rock singer, songwriter and musician
+1110	Q5685	Anton Chekhov	Russian dramatist, author and physician
+1111	Q667661	literary realism	literary movement
+1112	Q231106	Joan Jett	American musician
+1113	Q156774	Pedro II of Brazil	Emperor of Brazil from 7 April 1831 until deposed on 15 November 1889, Pedro II was the last ruler of the Empire of Brazil
+1114	Q1967070	Svetlana Surganova	Russian singer
+1115	Q7749	rock and roll	genre of music
+1116	Q414379	Academy of Useful Science	academy of sciences
+1117	Q313755	Harry Connick Jr.	American singer, conductor, pianist, actor, and composer
+1118	Q228546	Alphonse Daudet	French novelist
+1119	Q350	Cambridge	city in Cambridgeshire, England
+1120	Q1072120	Missile Technology Control Regime	multilateral export control regime to prevent the proliferation of missile and unmanned aerial vehicle technology
+1121	Q347362	Fredric Jameson	American academic
+1122	Q38757	Bertolt Brecht	German poet, playwright, theatre director
+1123	Q202735	Billy Bob Thornton	American actor, filmmaker, singer, songwriter, and musician
+1124	Q53001	Jean-Luc Godard	French-Swiss film director, screenwriter and film critic
+1125	Q154804	Leipzig University	university in Leipzig, Germany
+1126	Q190251	Richard Wright	English keyboardist of Pink Floyd
+1127	Q134456	Yukio Mishima	Japanese author (1925-1970)
+1128	Q39246	Richard Feynman	American theoretical physicist
+1129	Q476921	renal insufficiency	disease where the kidneys fail to adequately filter waste products from the blood
+1130	Q734	Guyana	country in South America
+1131	Q25080	Ilya Oleynikov	Russian comic actor and television personality
+1132	Q108283	Alan Arkin	American actor, director, musician and singer
+1133	Q18419	Brooklyn	borough of New York City, New York, United States
+1134	Q159551	Ignaz Moscheles	Czech conductor, music educator, composer and pianist
+1135	Q217557	Joyce Carol Oates	American author
+1136	Q297816	Sammy Davis Jr.	American musician and entertainer (1925-1990)
+1137	Q43293	J. M. Coetzee	South African writer
+1138	Q132964	Vladimir Mayakovsky	Russian and Soviet poet, playwright, artist and stage and film actor
+1139	Q262294	Keren Ann	Israeli-Dutch singer, songwriter, composer, record producer, and audio engineer
+1140	Q505994	Tony Visconti	American record producer, musician and singer
+1141	Q232052	Asia Argento	Italian actress, film director and model
+1142	Q155855	Karel Čapek	Czech writer
+1143	Q804	Panama	republic in Central America
+1144	Q80510	Alla Pugacheva	Soviet-Russian singer
+1145	Q843402	Warner Bros. Records	American record label (1958 to 2019)
+1146	Q125666	Nyusha	Russian singer
+1147	Q9353	John Locke	English philosopher and physician
+1148	Q131112	Paul Krugman	American economist
+1149	Q240523	Swizz Beatz	American record producer, DJ, rapper and hype man from New York
+1150	Q228860	Colbie Caillat	American singer-songwriter and guitarist
+1151	Q106740	Dorothy L. Sayers	English crime writer, playwright, essayist and Christian writer
+1152	Q228792	Dianna Agron	American actress, singer, and dancer
+1153	Q83501	Vladimir Prelog	Croatian-Swiss chemist (1906-1998)
+1154	Q60884	Günther Anders	Austrian philosopher and writer
+1155	Q41590	Mircea Eliade	Romanian historian of religion, fiction writer and philosopher
+1156	Q75828	Heinrich Wilhelm Olbers	German physician and astronomer
+1157	Q334	Singapore	Southeast asia city state
+1158	Q274404	Claudio Magris	Italian scholar, translator and writer
+1159	Q202449	David Ogden Stiers	American actor and voice actor (1942-2018)
+1160	Q49001	Whoopi Goldberg	American actress
+1161	Q193509	Taylor Momsen	American musician, singer, model, actress
+1162	Q596717	Phil Harris	Bandleader, vocalist, actor
+1163	Q8355	violin	bowed string instrument, usually with four strings tuned in perfect fifths
+1164	Q6927	20th century	century
+1165	Q6512	Søren Kierkegaard	Danish philosopher and theologian, precursor of Existentialism
+1166	Q208101	Joseph Heller	American author
+1167	Q229153	Michelle Williams	American singer and a member of Destiny's Child
+1168	Q40912	Frank Sinatra	American recording artist singer and film actor
+1169	Q790	Haiti	country in the Caribbean
+1170	Q63670	Peter Gay	German-American historian and author
+1171	Q84186	Ivan Illich	austrian philosopher and theologist
+1172	Q5146	Portuguese	Romance language originating on the Iberian peninsula
+1173	Q313525	Lionel Hampton	American jazz vibraphonist, pianist, percussionist, bandleader and actor
+1174	Q12439	Detroit	most populous city in Michigan, United States county seat of Wayne County
+1175	Q1013	Lesotho	kingdom in southern Africa
+1176	Q1008	Ivory Coast	republic in Africa
+1177	Q131725	Joan Baez	American singer
+1178	Q244	Barbados	country in the Caribbean
+1179	Q40213	William Butler Yeats	Irish poet and playwright
+1180	Q189758	Marvin Gaye	American singer-songwriter and musician
+1181	Q311267	Bobby Darin	American singer, songwriter and actor
+1182	Q33977	Jules Verne	French novelist, poet and playwright
+1183	Q180338	Christopher Lee	British actor and singer (1922-2015)
+1184	Q233946	Kate Voegele	American musician
+1185	Q313581	Nicolae Iorga	Prime Minister of Romania
+1186	Q5327	Adolf Butenandt	German biochemist (1939 Nobel Prize)
+1187	Q413	physics	study of matter and its motion, along with related concepts such as energy and force
+1188	Q135139	Paul Jozef Crutzen	Dutch climatologist
+1189	Q33240	Drake	Canadian rapper, singer-songwriter and actor
+1190	Q104340	Harold Lloyd	American film actor and producer
+1191	Q261812	Drake Bell	American actor and pop singer
+1192	Q7172	Arab League	organisation of Arab states
+1193	Q294144	Lea Salonga	Filipina singer and actress
+1194	Q187760	new wave	music genre
+1195	Q358345	Billy Dee Williams	American actor, artist, and singer
+1196	Q303	Elvis Presley	American singer and actor
+1197	Q79969	Emma Goldman	anarchist known for her political activism, writing, and speeches
+1198	Q172	Toronto	capital city of the province of Ontario, Canada
+1199	Q370560	David Crosby	guitarist, singer and songwriter from the United States
+1200	Q151830	Melanie C	British singer-songwriter, actress and businesswoman
+1201	Q221450	Luciano Berio	Italian composer
+1202	Q172579	Kingdom of Italy	kingdom in southern Europe between 1861 and 1946
+1203	Q726251	Elektra	American record label
+1204	Q152388	Theodor W. Adorno	German sociologist, philosopher and musicologist known for his critical theory of society
+1205	Q185832	Emmanuel Swedenborg	Swedish 18th century scientist and theologian
+1206	Q945	Togo	country in Africa
+1207	Q39989	Ronny Cox	American actor and musician
+1208	Q184226	Gilles Deleuze	French philosopher
+1209	Q209842	University of Paris (1896-1968)	former university in Paris, France from 1896 to 1968
+1210	Q286022	Common	American rapper, actor and author from Illinois
+1211	Q574	East Timor	country in South East Asia
+1212	Q84238	Peter Drucker	American business consultant
+1213	Q311068	Wallace Shawn	American actor, playwright, and essayist
+1214	Q188426	Roy Orbison	American singer-songwriter
+1215	Q4412	West Africa	westernmost region of the African continent
+1216	Q705333	David Clayton-Thomas	British musician
+1217	Q189665	Ivan Goncharov	Russian writer
+1218	Q467027	Buffy Sainte-Marie	Canadian musician
+1219	Q729117	Edmund White	American novelist and LGBT essayist
+1220	Q159542	Jan Evangelista Purkyně	Czech member of Czech council, biologist, physiologist, doctor and inventor
+1221	Q28513	Austria-Hungary	constitutional monarchic union from 1867 to October 1918
+1222	Q77060	Dietrich Fischer-Dieskau	German lyric baritone and conductor
+1223	Q107730	Vince Vaughn	Canadian-American actor
+1224	Q366057	Patrice Chéreau	French opera and theatre director, filmmaker, actor and producer
+1225	Q332525	Shannon Leto	American musician and songwriter
+1226	Q180468	Albert Szent-Györgyi	Hungarian biochemist who won the Nobel Prize in Physiology or Medicine in 1937
+1227	Q34670	Albert Camus	French author and journalist
+1228	Q152171	University of Bonn	public research university located in Bonn, Germany
+1229	Q467423	Robin Thicke	American singer, songwriter, and record producer from California
+1230	Q121507	Alicia Keys	American musician, singer, composer and actress
+1231	Q213684	Tamara Bunke	Argentinian revolutionary
+1232	Q507864	Donny Hathaway	American singer-songwriter and musician
+1233	Q325389	David A. Stewart	English musician, songwriter and record producer
+1234	Q47480	Paul Dirac	theoretical physicist (1902-1984)
+1235	Q310217	David Hemmings	British actor, producer, director, and singer
+1236	Q104127	Douglas Fairbanks	American actor, screenwriter, director, and producer
+1237	Q352914	Karel Jaromír Erben	Czech archivist, poet, ethnographer, librettist, publicist, lawyer, translator and writer
+1238	Q3866537	Movement Coordination Centre Europe	multi-national European coordinating body for military air lift and surface movement
+1239	Q434915	Jann Arden	Canadian singer-songwriter
+1240	Q40096	Will Smith	American actor, film producer, and rapper
+1241	Q238795	St. Vincent	American singer-songwriter
+1242	Q1345514	Michael Penn	singer from the United States
+1243	Q35610	Arthur Conan Doyle	Scottish physician and author
+1244	Q21578	Princeton University	private Ivy League research university in Princeton, New Jersey, United States
+1245	Q61197	Johann Christian Poggendorff	German physicist
+1246	Q230916	Galina Vishnevskaya	Russian soprano opera singer and recitalist
+1247	Q683	Samoa	country in Oceania
+1248	Q8349	"Weird Al" Yankovic	American singer-songwriter, music producer, accordionist, actor, comedian, writer, satirist, and parodist
+1249	Q79838	accordion	musical instrument
+1250	Q937	Albert Einstein	German-born physicist and founder of the theory of relativity
+1251	Q169452	Shaquille O'Neal	American basketball player
+1252	Q817	Kuwait	State in Western Asia
+1253	Q783	Honduras	republic in Central America
+1254	Q57139	Max Reger	German composer, pianist and conductor
+1255	Q115	Ethiopia	country in East Africa
+1256	Q191088	Joe Jonas	American singer and actor
+1257	Q179150	Sonny Bono	American entertainer, musician and politician
+1258	Q131252	University of Chicago	private research university in Chicago, Illinois, United States
+1259	Q157155	Ernest Renan	French philosopher and writer
+1260	Q730	Suriname	country in South America
+1261	Q704015	Konstantin Fedin	Russian-Soviet writer and poet
+1262	Q220308	Seth Rogen	Canadian actor and stand-up comedian
+1263	Q8646	Hong Kong	Special Administrative Region of China
+1264	Q241835	Milva	Italian singer, stage and film actress
+1265	Q62766	Jay-Z	American rapper, businessman, entrepreneur, record executive, songwriter, record producer and investor
+1266	Q191819	George Martin	English record producer, arranger, composer, conductor, audio engineer and musician
+1267	Q12881	Paulo Coelho	Brazilian lyricist and novelist
+1268	Q909	Jorge Luis Borges	Argentine short-story writer, essayist, poet and translator
+1269	Q205721	Joni Mitchell	Canadian musician
+1270	Q188461	Dannii Minogue	Australian pop singer, songwriter, actress
+1271	Q357974	Julian Lennon	British musician, songwriter and actor
+1272	Q539171	Dalida	Egyptian-born French-Italian recording artist, singer, actress, model and beauty pageant titleholder
+1273	Q712359	Roger Miller	American singer-songwriter, musician, and actor
+1274	Q241583	Bret Easton Ellis	American novelist
+1275	Q15949613	short story writer	author or writer of short stories
+1276	Q242	Belize	country in Central America
+1277	Q208116	Sergey Mikhalkov	Russian and Soviet writer
+1278	Q230501	Christina Milian	American singer, songwriter and actress
+1279	Q77184	Leopold von Ranke	German historian and a founder of modern source-based history
+1280	Q207036	A. A. Milne	British author known for creating Winnie-the-Pooh
+1281	Q237081	Ani Lorak	Ukrainian singer
+1282	Q153185	Joseph Louis Gay-Lussac	French chemist and physicist
+1283	Q298694	Method Man	American recording artist rapper and actor
+1284	Q6107	Tupac Shakur	American rapper, actor and activist
+1285	Q55208	Andrei Konchalovsky	Russian-American film director, film producer and screenwriter
+1286	Q133163	percussion instrument	type of musical instrument that produces a sound by directly hitting it
+1287	Q183397	Fred Hoyle	British astronomer
+1288	Q76772	Heinrich Wilhelm Gottfried von Waldeyer-Hartz	German neuroscientist
+1289	Q2822396	Academy of Sciences of Turin	Academy of Sciences of Turin
+1290	Q161877	Ashanti	American singer, songwriter, actress and dancer
+1291	Q229274	Regina Spektor	Russian-born American singer-songwriter and pianist
+1292	Q346801	Peter Buck	guitarist for R.E.M., songwriter, record producer
+1293	Q152824	Susan Sontag	American writer and filmmaker, professor, and activist
+1294	Q5333	Charles Lyell	British lawyer and geologist
+1295	Q41269	Henri Becquerel	French physicist
+1296	Q229264	Georges-Louis Leclerc, Comte de Buffon	French natural historian
+1297	Q83333	James D. Watson	American molecular biologist, geneticist, and zoologist
+1298	Q175104	Jennifer Love Hewitt	American actress and singer-songwriter
+1299	Q219631	Adam Levine	American singer-songwriter, actor and record producer
+1300	Q1886750	Van McCoy	American musician and music producer
+1301	Q58339	disco	genre of dance music and a subculture that emerged in the 1970s from the United States' urban nightlife scene
+1302	Q37150	Lana Del Rey	American recording artist singer-songwriter
+1303	Q7504	Irène Joliot-Curie	French scientist
+1304	Q311802	Giuseppe Ungaretti	poet and writer from Italy
+1305	Q361297	Joe Jackson	American music manager and father of the Jackson family
+1306	Q313509	Bernard-Henri Lévy	French film director and philosopher
+1307	Q206112	Willie Nelson	American country music singer-songwriter
+1308	Q664	New Zealand	constitutional monarchy in Oceania
+1309	Q12362622	philanthropist	person known for philanthropic work
+1310	Q470334	Euclides da Cunha	Brazilian writer
+1311	Q1351177	Tim Rose	American musician
+1312	Q762	Leonardo da Vinci	Italian Renaissance polymath (1452-1519)
+1313	Q30449	Avril Lavigne	Canadian singer, songwriter and actress
+1314	Q380799	M. Pokora	French singer and songwriter
+1315	Q215215	John Mayer	American singer, guitarist, record producer and songwriter from Connecticut
+1316	Q9204	C. S. Lewis	Christian apologist, novelist, and Medievalist
+1317	Q311476	Per Olov Enquist	Swedish writer
+1318	Q9268	Judaism	ancient, monotheistic, Abrahamic religion with the Torah as its foundational text
+1319	Q16867	Edgar Allan Poe	American author, poet, editor and literary critic
+1320	Q233541	Lisa Lopes	American rapper, singer-songwriter and actress
+1321	Q276005	Charlotte Gainsbourg	British-French actor and singer
+1322	Q48226	Ralph Waldo Emerson	American philosopher, essayist, and poet
+1323	Q243639	Jason Derulo	American singer-songwriter and dancer
+1324	Q297598	Beatriz Luengo	Spanish actress musician songwriter and actress
+1325	Q309926	Lemmy Kilmister	British rock musician singer-songwriter
+1326	Q42884	Germans	citizens or (under certain circumstances) people of German descent
+1327	Q224650	Sarah McLachlan	Canadian musician, singer, and songwriter
+1328	Q222071	Courtney Love	American punk singer-songwriter, musician, actress, and artist
+1329	Q235952	Gladys Knight	American singer
+1330	Q822146	lyricist	writer who specializes in writing song lyrics
+1331	Q234356	Janelle Monáe	American singer-songwriter, composer, and record producer
+1332	Q162005	Paul G. Allen	American inventor, investor and philanthropist
+1333	Q44606	Gackt	Japanese musician, singer-songwriter, actor, voice actor and author
+1334	Q83287	Selena Gomez	American singer, songwriter and actress
+1335	Q2632	Ringo Starr	British musician, drummer for the Beatles
+1336	Q122020	Hilary Duff	American actress and singer
+1337	Q397	Latin	almost-extinct Indo-European language of the Italic family
+1338	Q310755	Camille Jordan	French mathematician
+1339	Q443120	Lance Bass	American singer and actor
+1340	Q436712	Ben Elton	British comedian, author, playwright, actor and director
+1341	Q6527	Jean-Jacques Rousseau	Genevan philosopher, writer, and composer
+1342	Q512	Vladimir Vysotsky	Soviet singer, songwriter, poet and actor
+1343	Q542101	Boris Grebenshchikov	Russian recording artist singer
+1344	Q16287483	opinion journalist	journalist, writer or scientist who participates with his own contributions to the formation of public opinion on current issues
+1345	Q168468	David Brewster	British astronomer and mathematician
+1346	Q73463	Miguel	American R&B singer, songwriter and record producer
+1347	Q1039	São Tomé and Príncipe	country in Africa
+1348	Q190770	Philip Warren Anderson	American physicist
+1349	Q37068	Romanticism	Period of artistic, literary, and intellectual movement that started in 18th century Europe
+1350	Q105460	John Denver	American singer, songwriter, activist, and humanitarian
+1351	Q44398	Falco	Austrian singer and songwriter
+1352	Q61078	Walter Benjamin	German literary critic, philosopher and social critic (1892-1940)
+1353	Q8178443	librettist	author of the libretto (words) of an opera similar extended musical composition
+1354	Q82083	John Keats	English romantic poet
+1355	Q39631	physician	professional who practices medicine
+1356	Q330629	Sony Music	American record label primary record label of Sony Music Entertainment
+1357	Q888152	Bob Mould	American musician
+1358	Q265	Uzbekistan	republic in Central Asia
+1359	Q461104	Jaroslav Vrchlický	Czech poet, playwright, publicist and translator
+1360	Q15975	Montesquieu	French social commentator and political thinker
+1361	Q6694	Alexander von Humboldt	Prussian geographer, naturalist and explorer
+1362	Q5608	Eminem	American rapper, producer and actor
+1363	Q77143	Thomas Anders	German singer, composer, producer
+1364	Q155700	Chris Brown	American singer-songwriter, dancer and rapper
+1365	Q433060	Daniel Johnston	American musician (1961-2019)
+1366	Q18391	Elie Wiesel	Romanian-born Jewish Holocaust survivor, writer, professor, activist, and thinker
+1367	Q11299	Manhattan	borough of New York City, New York, United States
+1368	Q846	Qatar	constitutional monarchy in western Asia
+1369	Q1137381	Arab Fund for Economic and Social Development	Kuwait-based pan-Arab development finance institution
+1370	Q842324	indie pop	genre of alternative pop music
+1371	Q54860	Walt Disney Records	music label owned by The Walt Disney Company
+1372	Q45765	Jack London	American author, journalist, and social activist
+1373	Q14277	William Herschel	German-born British astronomer, technical expert, and composer
+1374	Q1203	John Lennon	English singer and songwriter, founding member of The Beatles
+1375	Q80440	Anna Akhmatova	Russian poet (1889-1966)
+1376	Q94081	Bob Hope	American comedian, actor, singer and dancer
+1377	Q217	Moldova	republic in Eastern Europe
+1378	Q348533	Nick Cannon	American rapper, actor and comedian
+1379	Q2059704	television director	person who directs television programs
+1380	Q208871	Ike Turner	African American musician
+1381	Q41173	Demi Lovato	American singer, songwriter, actress, and author
+1382	Q1965416	Diana Arbenina	Belarusian poet
+1383	Q193710	Ne-Yo	American singer, songwriter and record producer from Nevada
+1384	Q781	Antigua and Barbuda	country in the Caribbean
+1385	Q3369762	Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean	international organization which promotes nuclear disarmament
+1386	Q451812	Lianne La Havas	English singer, songwriter and multi-instrumentalist
+1387	Q8018	Augustine of Hippo	early Christian theologian, philosopher and Church Father
+1388	Q7302	George Frideric Handel	German, later British Baroque composer
+1389	Q966565	Tex Ritter	American country musician
+1390	Q170515	Omar Sharif	Egyptian actor (1932-2015)
+1391	Q21590660	Western	multimedia genre of stories set primarily in the American Old West
+1392	Q189950	Osip Mandelstam	Russian poet and essayist
+1393	Q47216	Condoleezza Rice	American Republican politician U.S. Secretary of State political scientist
+1394	Q229139	Peggy Lee	American recording artist singer, songwriter, composer and actress
+1395	Q45177	Visa Waiver Program	program allowing 90-day visa free travel to the United States for citizens of some countries
+1396	Q122003	Julio Iglesias	Spanish recording artist  singer-songwriter
+1397	Q179282	Steven Weinberg	American theoretical physicist
+1398	Q425821	Mark Ronson	British musician, DJ, songwriter and record producer
+1399	Q18430	Joseph E. Stiglitz	American economist, professor, and recipient of the Nobel Memorial Prize in Economics
+1400	Q44086	Carl Orff	German composer
+1401	Q784	Dominica	country in the Caribbean
+1402	Q151972	Josephine Baker	American-born French dancer, singer, and actress
+1403	Q1046616	Tim Rice-Oxley	British musician
+1404	Q237	Vatican City	country in southern Europe under the sovereignty of the Holy See
+1405	Q158852	conductor	person who directs a musical group during a performance
+1406	Q192668	Nick Cave	Australian musician
+1407	Q705715	RuPaul	American drag performer, actor and musician
+1408	Q22686	Donald Trump	45th and current president of the United States
+1409	Q924	Tanzania	country in Africa
+1410	Q179126	John Ruskin	English writer and art critic
+1411	Q47164	Santa Monica	beachfront city in Los Angeles County, California, United States
+1412	Q981971	Mario Praz	Italian art collector, art historian, journalist and writer
+1413	Q702	Federated States of Micronesia	country in Oceania
+1414	Q443897	Gretchen Wilson	American country singer
+1415	Q40640	Ray Bradbury	American author and screenwriter
+1416	Q24925	science fiction	genre of fiction
+1417	Q235	Monaco	Principality forming an enclave within France
+1418	Q192912	Stephen Fry	British comedian, actor, writer, presenter, and activist
+1419	Q1480793	Nuclear Suppliers Group	intergovernmental organization
+1420	Q947519	John Ciardi	American poet, professor, translator
+1421	Q132524	Ayn Rand	Russian-American novelist and philosopher
+1422	Q380381	Dave Matthews	American singer-songwriter, musician and actor
+1423	Q355009	Jackson Browne	American recording artist singer-songwriter
+1424	Q220192	Zoolander	2001 American comedy film directed by Ben Stiller
+1425	Q115483	Max Frisch	Swiss playwright and novelist (1911-1991)
+1426	Q76546	Erich Kästner	German children's writer
+1427	Q23530	Dmitry Medvedev	Russian Prime Minister and former president
+1428	Q27621	Saint Petersburg State University	Russian federal state-owned higher education institution
+1429	Q336278	Neil Tennant	English musician
+1430	Q60070	Friedrich Wilhelm Joseph Schelling	German philosopher (idealism)
+1431	Q842	Oman	country in Western Asia
+1432	Q432421	Natasha Shneider	Russian musician (1956-2008)
+1433	Q168362	John Desmond Bernal	Irish scientist
+1434	Q36290	Diana Ross	American vocalist, music artist and actress
+1435	Q6096	Snoop Dogg	American rapper, singer, actor and record producer
+1436	Q1239933	Donald Glover	American actor, rapper, singer, comedian and film, television and record producer
+1437	Q168452	Jean-Victor Poncelet	French engineer and mathematician
+1438	Q51488	John Cassavetes	American actor, film director, and screenwriter (1929-1989)
+1439	Q61318	August Ludwig von Schlözer	German historian
+1440	Q1075651	keyboardist	musician who plays keyboard instruments
+1441	Q191999	Robert McNamara	American businessman and Secretary of Defense
+1442	Q170842	Sergei Korolev	Ukrainian and Soviet rocket engineer
+1443	Q76478	Kirsten Dunst	American actress
+1444	Q336222	Tito Jackson	singer and member of The Jackson 5
+1445	Q312870	Jerry Garcia	American musician and member of the Grateful Dead
+1446	Q7351	Robert Schumann	German composer
+1447	Q19350898	theoretical physicist	occupation
+1448	Q117249	Robbie Robertson	Canadian recording artist singer-songwriter and guitarist
+1449	Q399	Armenia	country in South Caucasus
+1450	Q13955	Arabic	Semitic language
+1451	Q262314	Chris Rea	English recording artist singer-songwriter
+1452	Q182046	Leon Battista Alberti	Italian architect (1404-1472)
+1453	Q319084	Al Franken	American comedian and politician
+1454	Q215868	Alice Walker	American author and activist
+1455	Q76432	Rudolf Virchow	German doctor, anthropologist, public health activist, pathologist, prehistorian, biologist and politician
+1456	Q242110	Ayọ	Nigerian-German singer-songwriter
+1457	Q60579	Moritz von Jacobi	German engineer and physicist
+1458	Q505476	Avicii	Swedish musician
+1459	Q231270	Khloé Kardashian	American television personality
+1460	Q34086	Justin Bieber	Canadian singer and songwriter
+1461	Q810	Jordan	constitutional monarchy in Western Asia
+1462	Q1031340	Mark Linkous	American musician
+1463	Q9095	James Clerk Maxwell	Scottish physicist
+1464	Q557632	Decca	US/British record label
+1465	Q187814	Tracy Chapman	American singer-songwriter
+1466	Q22670	Friedrich Schiller	German poet, philosopher, historian, and playwright
+1467	Q229013	Sarah Silverman	American comedian and actress
+1468	Q238	San Marino	republic on the Appenine peninsula
+1469	Q167821	Gore Vidal	American writer (1925-2012)
+1470	Q57384	Wernher von Braun	German, later an American, aerospace engineer and space architect
+1471	Q859	Plato	Classical Greek philosopher
+1472	Q80739	Charlton Heston	American actor and guns rights activist
+1473	Q157400	Idina Menzel	American actress, voice actress, singer, and songwriter
+1474	Q48990	Nikolay Semyonov	Soviet physical chemist
+1475	Q49738	German Academy of Sciences at Berlin	research institution of East Germany
+1476	Q310170	Curtis Mayfield	American singer, songwriter, and record producer
+1477	Q192655	Lara Fabian	Belgo-Canadian recording artist singer
+1478	Q47426	Milton Friedman	American economist, statistician, and writer
+1479	Q5928	Jimi Hendrix	American guitarist, singer and songwriter
+1480	Q272069	Damon Albarn	English musician
+1481	Q3335	George Orwell	English author and journalist
+1482	Q5950	James Brown	American singer, songwriter, musician, and recording artist
+1483	Q5921	Chuck Berry	American recording artist rock-and-roll guitarist, singer, songwriter
+1484	Q313013	Brian Wilson	American musician, singer, songwriter and record producer
+1485	Q1060636	Daniel Handler	American novelist, also known by the pseudonym Lemony Snicket
+1486	Q45909	John Cale	Welsh composer, singer-songwriter and record producer
+1487	Q154331	György Ligeti	Hungarian composer
+1488	Q93341	Miles Davis	American jazz musician
+1489	Q236212	Petula Clark	British actress and singer
+1490	Q265179	Rita Lee	Brazilian recording artist, musician, singer
+1491	Q1053574	executive producer	profession
+1492	Q190379	Ian McEwan	British author
+1493	Q962	Benin	country in Africa
+1494	Q106225	Jean Yanne	French actor (1933-2003)
+1495	Q151814	Sarah Brightman	British soprano, musical theatre actress, and dancer
+1496	Q310343	Dudley Moore	English actor, comedian, composer and musician
+1497	Q111436	Elmer Bernstein	American composer and conductor
+1498	Q76641	Felix Klein	German mathematician, author of the Erlangen Program
+1499	Q572741	Kwame Anthony Appiah	British-American philosopher and writer
+1500	Q4028	Paul Simon	American musician, songwriter and producer
+1501	Q217191	soft rock	music genre
+1502	Q230454	k.d. lang	Canadian singer-songwriter
+1503	Q46599	Mikhail Lermontov	Russian writer, poet and painter
+1504	Q313185	Fritz Leiber Junior	American writer of fantasy, horror, and science fiction
+1505	Q112307	Lena Horne	American singer, actress, civil rights activist and dancer
+1506	Q104000	Lauren Bacall	American actress and model
+1507	Q7542	Prince	American singer, songwriter, musician and actor
+1508	Q555226	Sid Caesar	American comic actor and writer
+1509	Q219878	Emma Bunton	British singer-songwriter, actress, and radio and television presenter
+1510	Q538	Oceania	geographic region comprising Australasia, Melanesia, Micronesia and Polynesia
+1511	Q18425	Marcellin Berthelot	French chemist and politician
+1512	Q61813	Abraham Gotthelf Kästner	German mathematician
+1513	Q104266	Mel Brooks	American director, writer, actor, and producer
+1514	Q41513	William Blake	English Romantic poet and artist
+1515	Q150526	Santiago Ramón y Cajal	Spanish scientist
+1516	Q237324	Lisa Marie Presley	American singer-song-writer and daughter of Elvis Presley
+1517	Q61374	Wolfhart Pannenberg	German theologian
+1518	Q232085	Lil Mama	American rapper from New York
+1519	Q1132636	Serbian Academy of Sciences and Arts	Serbian Academy of Sciences and Arts
+1520	Q167696	Nicole Scherzinger	American singer, dancer
+1521	Q7184	NATO	intergovernmental military alliance of Western states
+1522	Q256708	Sabrina Bryan	American singer, actress, author, songwriter, fashion designer, choreographer, dancer, and television personality
+1523	Q471443	Ilya Ilf	Soviet writer and journalist
+1524	Q1014	Liberia	republic in West Africa
+1525	Q23543	Selena	Mexican-American singer, songwriter, actress, and fashion designer
+1526	Q676	prose	form of language which applies ordinary grammatical structure and natural flow of speech
+1527	Q278625	Vladimir Solovyov	Russian journalist
+1528	Q25147	Franco Battiato	Italian singer-songwriter, composer, and filmmaker
+1529	Q34787	Friedrich Engels	German social scientist, author, political theorist, and philosopher
+1530	Q105875	Herbie Hancock	American pianist, keyboardist, bandleader and composer
+1531	Q47695	Rudolf Christoph Eucken	German philosopher
+1532	Q153238	Leó Szilárd	physicist and biologist
+1533	Q15873	Brian May	English musician and astrophysicist
+1534	Q387539	Hollywood Records	American record label
+1535	Q359665	David Walliams	English comedian, writer and actor
+1536	Q57281	August Wilhelm Schlegel	German poet, translator, critic, and writer
+1537	Q289064	Felipe Colombo	Mexican-Argentine actor (of theater, films and television), singer, songwriter and musician
+1538	Q239786	Alexz Johnson	Canadian actress and singer-songwriter
+1539	Q34628	Gotthold Ephraim Lessing	German writer, philosopher, publicist and art critic
+1540	Q164444	funk	music genre that originated in African-American communities in the mid-1960s when African-American musicians created a rhythmic, danceable new form of music through a mixture of soul music, psychedelic rock, jazz, and rhythm and blues (R&B)
+1541	Q874	Turkmenistan	republic in Central Asia
+1542	Q83643	Andrey Gubin	Russian singer
+1543	Q325396	Judd Apatow	American producer, writer, director, actor, and comedian
+1544	Q44695	Konstantin Simonov	Soviet writer, poet, playwright
+1545	Q11617	Aaliyah	American singer, actress and model
+1546	Q42574	James Cameron	Canadian film director
+1547	Q164401	Simon Newcomb	American astronomer
+1548	Q11907	Mark Oliver Everett	American singer, songwriter, and musician
+1549	Q202878	Mae West	American actress and sex symbol
+1550	Q362422	Vince Neil	American singer and musician, member of Mötley Crüe
+1551	Q186329	Mika	British-Lebanese singer-songwriter
+1552	Q215300	Jordin Sparks	American singer, winner of 2007 American Idol
+1553	Q38082	Lewis Carroll	English writer, logician, Anglican deacon and photographer
+1554	Q125057	Richard Francis Burton	British explorer, geographer, translator, writer, soldier, orientalist, cartographer, ethnologist, spy, linguist, poet, fencer, and diplomat
+1555	Q25144	Kevin Spacey	American actor, director and producer
+1556	Q8908	Council of Europe	international organization for defending human rights
+1557	Q41309	Franz Liszt	Hungarian romantic composer and virtuoso pianist
+1558	Q42156	Henri Bergson	French philosopher
+1559	Q55796	Peter Ustinov	British actor, writer, and dramatist
+1560	Q93401	Franz Miklosich	austrian member of Empire parliament (Austria empire), lawyer and university educator
+1561	Q361677	Mick Ronson	English guitarist, songwriter, multi-instrumentalist, arranger and record producer
+1562	Q12807	Umberto Eco	Italian semiotician, essayist, philosopher, literary critic, and novelist
+1563	Q198962	Sandy	Brazilian singer-songwriter, producer and actress
+1564	Q156814	Yehudi Menuhin	American violinist and conductor (1916-1999)
+1565	Q3772571	Caribbean Development Bank	financial institution helping Caribbean nations finance social and economic programs, headquartered at Wildey, St. Michael, Barbados, established by an agreement signed on 18 Oct. 1969, in Kingston, Jamaica and entering into force on 26 Jan. 1970
+1566	Q1281738	Kinky Friedman	Singer, songwriter, novelist, humorist, politician
+1567	Q183167	G. K. Chesterton	English mystery novelist and Christian apologist
+1568	Q299015	Austrian Academy of Sciences	Austrian Academy of Sciences
+1569	Q34389	Whitney Houston	American singer, actress, model, and record producer
+1570	Q312288	George Ellery Hale	American solar astronomer
+1571	Q80135	Dmitri Shostakovich	Soviet composer and pianist
+1572	Q12585	Latin America	region of the Americas where Romance languages are primarily spoken
+1573	Q272943	Joe Dassin	French-American musician
+1574	Q678	Tonga	country in Oceania
+1575	Q236066	AJ Michalka	American actress and singer
+1576	Q192165	Danny Glover	American actor, film director and political activist
+1577	Q295431	Julian Barnes	English writer
+1578	Q23434	Ernest Hemingway	American author and journalist
+1579	Q901402	geographer	scholar whose area of study is geography
+1580	Q154216	Cat Stevens	British singer-songwriter
+1581	Q60128	Alexander Alexandrovich Fadeyev	Soviet writer and politician
+1582	Q240377	Amanda Palmer	American punk-cabaret songwriter, musician, and performance artist Amanda Palmer
+1583	Q210059	Neil Gaiman	English fantasy writer
+1584	Q835	Mikhail Bulgakov	Russian author
+1585	Q298388	Noël Coward	English playwright, composer, director, actor and singer
+1586	Q763	Saint Kitts and Nevis	country in Central America and Caribbean
+1587	Q1988375	Oleg Skripka	Ukrainian singer
+1588	Q371202	Big Boi	American rapper and record producer from Georgia 1/2 of OutKast
+1589	Q2865819	opera singer	singer who sings in operas
+1590	Q11975	Britney Spears	American singer, dancer and actress
+1591	Q128758	satire	genre of arts and literature in the form of humor or ridicule
+1592	Q690974	Brandy Norwood	American singer and actress
+1593	Q2329	chemistry	branch of physical science concerned with the composition, structure and properties of matter
+1594	Q240933	Joan Rivers	American comedian, actress, and television host
+1595	Q230068	Ève Curie	French and American writer and journalist
+1596	Q1350157	music critic	profession
+1597	Q200639	Paul Valéry	French poet, essayist, and philosopher
+1598	Q282722	Trent Reznor	American musician
+1599	Q70737	Hans Mayer	German literary scholar
+1600	Q274342	Tatyana Tolstaya	Russian writer
+1601	Q246497	Mstislav Keldysh	Soviet mathematician and physicist
+1602	Q117467	Royal Society of Edinburgh	academy of sciences
+1603	Q232462	Ani DiFranco	musician and activist
+1604	Q357455	Ray Davies	British rock-pop musician, founding member of The Kinks
+1605	Q49451	progressive rock	rock music subgenre that emphasizes complexity and form
+1606	Q117021	Oswald Heer	Swiss naturalist (1809-1883)
+1607	Q55044	Ludwig Maximilian University of Munich	German university in Munich, Bavaria
+1608	Q157322	Romain Gary	French writer and diplomat
+1609	Q302762	Barry Manilow	American musician
+1610	Q61407	Ernst Curtius	German classical archaeologist and historian of classical antiquity
+1611	Q535	Victor Hugo	French poet, novelist, and dramatist
+1612	Q1666	Jacques Brel	Belgian singer-songwriter
+1613	Q7204	Middle East	region that encompasses majority of Western Asia and Egypt
+1614	Q952491	Ian McLagan	British musician
+1615	Q7439	Richard Stallman	American software freedom activist, short story writer and computer programmer, founder of the GNU project
+1616	Q17455	John von Neumann	Hungarian-American mathematician and polymath
+1617	Q79759	John Milton	English epic poet
+1618	Q204005	Debby Ryan	American singer and actress
+1619	Q333265	Léon Theremin	Russian inventor
+1620	Q1348831	Lowell George	American musician
+1621	Q319392	Marlon Jackson	singer and member of The Jackson 5 from the United States
+1622	Q213736	Bridgit Mendler	American singer, songwriter, actress, and record producer
+1623	Q216563	Paul Anka	Canadian-American singer, songwriter and actor
+1624	Q122701	William Thomson, 1st Baron Kelvin	British physicist and engineer
+1625	Q57106	Heinrich Schliemann	German businessman and a pioneer of field archaeology
+1626	Q9027	Swedish	North Germanic language spoken in Sweden and Finland
+1627	Q354181	Steven Van Zandt	American musician
+1628	Q193676	Ludacris	American rapper, entrepreneur and actor from Georgia
+1629	Q180453	Dolly Parton	American singer-songwriter and actress
+1630	Q23556	Atlanta	city in DeKalb and Fulton counties in Georgia, United States, county seat city of Fulton County and Georgia federated state capital city
+1631	Q954997	Michael Nesmith	American musician, songwriter, actor
+1632	Q722042	Master P	American rapper, actor, producer, and basketball player
+1633	Q3348506	AFRISTAT	international institution concerned with statistics in Sub-Saharan Africa
+1634	Q151403	Thomas Carlyle	Scottish philosopher, satirical writer, essayist, historian and teacher
+1635	Q347528	Liberace	American pianist (1919-1987)
+1636	Q239587	Aimee Mann	American indie rock singer-songwriter (born 1960)
+1637	Q151892	Ariana Grande	American singer, songwriter and actress
+1638	Q1009	Cameroon	republic in West Africa
+1639	Q167475	Jacques Rivette	French film director, screenwriter and film critic
+1640	Q386053	Donny Osmond	singer from the United States and member of The Osmonds
+1641	Q15980158	non-fiction writer	author who writes non-fiction texts
+1642	Q299138	Kid Cudi	American rapper, singer, songwriter, guitarist, and actor from Ohio
+1643	Q217467	art rock	subgenre of rock music
+1644	Q57802	Gotthelf Fischer von Waldheim	German scientist
+1645	Q169566	H. P. Lovecraft	American author
+1646	Q205375	inventor	person that devises a new device, method, composition, or process
+1647	Q154556	Karlheinz Stockhausen	German composer
+1648	Q295923	MC Hammer	American hip-hop artist (1962-)
+1649	Q303207	Ricky Nelson	actor, musician, singer
+1650	Q2338889	MCA Records	US record label, imprint of MCA Records, Inc.
+1651	Q57619	Frank Wedekind	German playwright
+1652	Q8011	Avicenna	medieval Persian polymath, physician, and philosopher
+1653	Q216221	Steve Carell	American actor
+1654	Q103114	Michel Houellebecq	French writer
+1655	Q483203	Sting	English musician
+1656	Q38848	heavy metal	genre of rock music characterized by slack-tuned instruments, and unconventional changes of tonality (key) and time signature (metre)
+1657	Q501	Charles Baudelaire	French poet
+1658	Q49542	Russians	East Slavic ethnic group, regardless of country of citizenship
+1659	Q194220	Nas	American rapper, record executive, entrepreneur and investor from New York
+1660	Q100937	Fred Astaire	American dancer, singer, actor, choreographer and television presenter
+1661	Q272203	Van Morrison	Northern Irish singer-songwriter and musician
+1662	Q168756	"University of California, Berkeley"	public research university in Berkeley, California, United States
+1663	Q275641	Julie Driscoll	English singer and actress
+1664	Q183337	David Attenborough	British broadcaster and naturalist
+1665	Q230943	China Anne McClain	American actress and singer
+1666	Q230836	Emilie Autumn	American musician
+1667	Q161363	Zbigniew Herbert	Polish writer and poet
+1668	Q414110	Academy of Arts, Berlin	national German academic institution for the advancement of the arts
+1669	Q298209	Willow Smith	American musician, songwriter, actress
+1670	Q182665	Iggy Pop	American rock singer-songwriter, musician, and actor
+1671	Q84509	Felix Philipp Kanitz	Austro-Hungarian archaeologist
+1672	Q220550	Ján Kollár	Ján Kollár
+1673	Q3057567	Erwin Raisz	American cartographer
+1674	Q362353	Vincent Gallo	American film director, writer, model, actor and musician
+1675	Q187199	Carlo Rubbia	Italian particle physicist
+1676	Q16957	German Democratic Republic	former communist country, 1949-1990
+1677	Q561401	Spike Milligan	British-Irish comedian, writer, musician, poet, playwright, soldier and actor
+1678	Q128121	Mick Jagger	English songwriter, singer of The Rolling Stones
+1679	Q477461	Amr Diab	Egyptian singer
+1680	Q362258	Vitas	Ukrainian singer
+1681	Q201538	Edward Said	professor of literature and a public intellectual
+1682	Q1928989	Treaty on Open Skies	Treaty on Open Skies
+1683	Q170509	Henry James	American novelist, short story author, and literary critic
+1684	Q85914	Herman Francis Mark	Austrian American chemist
+1685	Q46633	Charles Babbage	English mathematician, philosopher, inventor and mechanical engineer who originated the concept of a programmable computer
+1686	Q9682	Elizabeth II	queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations
+1687	Q350362	James Blake	English electronic music producer and singer-songwriter
+1688	Q7013	Lena Meyer-Landrut	German singer-songwriter
+1689	Q41351	Jodie Foster	American actor, film director and producer
+1690	Q42747	Heinrich Böll	German author, novelist, and short story writer
+1691	Q1234713	theologian	person who studies theology
+1692	Q155412	Toni Braxton	American R&B singer-songwriter
+1693	Q4029	Tara Strong	Canadian American actress
+1694	Q214227	T.I.	American rapper, record producer, actor, and businessman
+1695	Q213662	Karl Lachmann	German philologist and critic
+1696	Q319374	Leon Russell	American singer-songwriter, guitarist, pianist and session musician
+1697	Q624307	Arab Monetary Fund	Arab Monetary Fund
+1698	Q46706	Eugène Ionesco	French Romanian playwright
+1699	Q989	John Paul II	264th Pope of the Catholic Church, saint
+1700	Q131433	Shania Twain	Canadian recording artist country pop singer-songwriter
+1701	Q295919	Sam Cooke	American recording artist singer-songwriter and entrepreneur
+1702	Q9056	Czech	West Slavic language spoken in the Czech Republic
+1703	Q1175266	David Lindley	American musician
+1704	Q533284	Gustavo Cerati	Argentine musician, singer-songwriter and composer
+1705	Q193744	Tori Amos	American singer-songwriter and pianist
+1706	Q234773	Priscilla Presley	American actress and businesswoman and former wife of Elvis Presley
+1707	Q49734	Cass Elliot	American recording artist singer, record producer
+1708	Q167635	Tyler, the Creator	American rapper, record producer, music video director and designer from California
+1709	Q1225	Bruce Springsteen	American singer and songwriter
+1710	Q44306	Salman Rushdie	British Indian novelist and essayist
+1711	Q19199	Brad Delson	American musician
+1712	Q270085	Shen Kuo	Chinese scientist and statesman
+1713	Q520549	geologist	scientist who studies geology
+1714	Q57554	Georg Christoph Lichtenberg	German scientist, satirist
+1715	Q290197	Joumana Haddad	Lebanese poet, journalist and activist
+1716	Q14281	Giovanni Schiaparelli	Italian astronomer and science historian
+1717	Q1195390	Andrew Ridgeley	English singer, songwriter and record producer
+1718	Q333	astronomy	natural science that deals with the study of celestial objects
+1719	Q359568	Vladimir Obruchev	Russian geologist and writer
+1720	Q1716	Renaud	French singer, songwriter and actor
+1721	Q117139	Wiz Khalifa	American rapper and actor
+1722	Q104668	Vitaly Ginzburg	Russian  Physicist
+1723	Q180619	Stephen Jay Gould	American evolutionary ,biologist
+1724	Q272031	Jack White	American musician and record producer
+1725	Q7042855	film editor	person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture
+1726	Q218992	Nelly	American rapper, singer, and songwriter from Missouri
+1727	Q2071	David Lynch	American filmmaker, television director, visual artist, musician and occasional actor
+1728	Q470758	Colm Tóibín	Irish novelist and writer
+1729	Q36949	Robert De Niro	American actor, director and producer
+1730	Q2079	Leipzig	city in Saxony, Germany
+1731	Q150471	E. T. A. Hoffmann	German Romantic author
+1732	Q196287	Mihajlo Pupin	Serbian American inventor and autobiographer
+1733	Q9327	Guy de Maupassant	French writer
+1734	Q106706	Jeff Goldblum	American actor
+1735	Q215026	Debbie Harry	American singer-songwriter and actress
+1736	Q130799	James Blunt	English singer-songwriter
+1737	Q49081	Christopher Hitchens	British-American author and journalist
+1738	Q156942	Charles Wheatstone	British physicist
+1739	Q76683	Ludwig Prandtl	German physicist
+1740	Q180727	John Cage	American avant-garde composer
+1741	Q311115	Henri Victor Regnault	French physicist
+1742	Q135481	Lev Gumilyov	Soviet academic
+1743	Q44176	Hulk Hogan	American professional wrestler, actor and television personality
+1744	Q4617	Corbin Bleu	American actor, model, dancer, producer, and singer-songwriter
+1745	Q25379	play	form of literature intended for theatrical performance
+1746	Q8246794	blogger	person who writes or records a blog
+1747	Q1046038	Enzo Jannacci	singer songwriter, composer, actor, stand-up comedian
+1748	Q464218	Connie Smith	American country music artist
+1749	Q127856	Beverly Hills	city in Los Angeles County, California, United States
+1750	Q193355	blues rock	music genre combining elements of blues and rock
+1751	Q107405	Lars Onsager	American physical chemist and theoretical physicist (1903-1976)
+1752	Q1514	Janis Joplin	American singer and songwriter
+1753	Q39803	Mario Vargas Llosa	Peruvian writer, politician, journalist, and essayist
+1754	Q5749	Pierre-Joseph Proudhon	French politician, mutualist philosopher, economist, and socialist
+1755	Q154756	Italo Calvino	Italian journalist and writer of short stories and novels
+1756	Q283408	Dmitry Glukhovsky	Russian writer and journalist
+1757	Q209471	Telly Savalas	American film and television actor and singer
+1758	Q159642	František Palacký	Czech philosopher, historian, publicist and writer
+1759	Q227129	Zoë Kravitz	American actress, singer and model
+1760	Q81244	Karl Popper	Austrian-British philosopher of science
+1761	Q170042	Bill Monroe	American bluegrass musician, songwriter
+1762	Q187166	Antonin Artaud	French-Occitanian poet, playwright, actor and theatre director
+1763	Q1047474	Brendon Urie	American singer, songwriter, and musician, lead vocalist of Panic! at the Disco
+1764	Q184572	Martin Sheen	American actor
+1765	Q41488	Wole Soyinka	Nigerian writer
+1766	Q291405	Sky Ferreira	American singer-songwriter
+1767	Q216936	Sean Combs	American businessman, rapper, singer, record producer, actor and entrepreneur from New York
+1768	Q333873	Valentin Kataev	Soviet writer, playwright, screenwriter, poet
+1769	Q309555	Michael Cera	Canadian actor
+1770	Q104791	Ed Harris	American actor and director
+1771	Q1512	Robert Louis Stevenson	Scottish novelist, poet, essayist, and travel writer
+1772	Q374362	Nikolay Ogarev	Russian poet, historian and political activist
+1773	Q217750	Violetta Villas	Singer, actress (1938-2011)
+1774	Q235515	Janis Ian	American singer-songwriter and writer
+1775	Q37944	Masiela Lusha	Albanian actress, writer, author
+1776	Q442830	Ivan Urgant	Russian television presenter
+1777	Q299965	Ralph Ellison	American novelist, literary critic, scholar and writer
+1778	Q73089	Gene Kelly	American dancer, actor, singer, director, producer and choreographer
+1779	Q7315	Pyotr Ilyich Tchaikovsky	Russian composer
+1780	Q205456	Theo van Gogh	Dutch film director, writer and satirist (1957-2004)
+1781	Q36488	Guglielmo Marconi	Italian inventor and radio pioneer
+1782	Q151872	Amos Oz	Israeli writer, novelist, journalist and intellectual
+1783	Q306122	Hyde	Japanese rock musician
+1784	Q58978	Max Born	German-Jewish physicist and mathematician
+1785	Q436693	Ivor Novello	Welsh composer and actor
+1786	Q79078	Wilhelm Blaschke	Austrian mathematician
+1787	Q228968	Fiona Apple	American singer-songwriter and musician
+1788	Q308711	Vladislav Krapivin	Soviet and Russian writer
+1789	Q169038	Zdeněk Nejedlý	Czechoslovak member of Czechoslovak national parliament, minister without portfolio, minister of labour and social affairs of the CR, minister of education, Czechoslovak politician, academic, musicologist, politic writer and science writer
+1790	Q189080	Lou Reed	American musician, recording artist, singer-songwriter
+1791	Q233736	Mýa	American R&B recording artist
+1792	Q11812	Thomas Jefferson	3rd President of the United States of America
+1793	Q283859	Edvard Radzinsky	Russian historian
+1794	Q438164	Samuel R. Delany	American author, professor and literary critic
+1795	Q156749	Adolf Erik Nordenskiöld	Finland-Swedish baron, geologist, mineralogist and Arctic explorer
+1796	Q62	San Francisco	consolidated city-county in California, United States
+1797	Q182589	William Morris	English textile designer, poet, novelist, translator, and socialist activist
+1798	Q335142	Alexander Bogdanov	Physician, philosopher, writer, Bolshevik
+1799	Q122968	Alexander Emanuel Agassiz	American zoologist and engineer (1835-1910)
+1800	Q83158	Jean Cocteau	French poet, novelist, dramatist, designer, boxing manager and filmmaker
+1801	Q708963	Allan Sherman	American comedian (1924-1973)
+1802	Q46739	Octavio Paz	Mexican writer laureated with the 1990 Nobel Prize for Literature
+1803	Q61723	Gustav Landauer	German anarchist, editor
+1804	Q27645	Mikhail Bakunin	Russian revolutionary, philosopher, and theorist of collectivist anarchism
+1805	Q2685	Arnold Schwarzenegger	Austrian-American actor, businessman, bodybuilder and politician
+1806	Q167546	Lucio Dalla	Italian recording artist singer-songwriter, musician and actor
+1807	Q1377134	Graham Parker	British singer
+1808	Q311241	Bobby Brown	American contemporary R&B singer
+1809	Q233529	Dee Dee Bridgewater	American singer
+1810	Q185002	Mylène Farmer	Canadian born French recording artist singer, songwriter
+1811	Q298838	Billy Connolly	Scottish comedian
+1812	Q1067043	Charlie Wilson	American singer, songwriter, record producer
+1813	Q302497	mandolin	musical instrument in the lute family
+1814	Q9317	John Maynard Keynes	British economist
+1815	Q180268	gospel music	genre of music emphasizing Christian lyrics
+1816	Q42775	Johnny Cash	American singer-songwriter and actor
+1817	Q45255	Karl Valentin	Bavarian comedian, cabaret performer, clown, author and film producer
+1818	Q311450	Billy Preston	American R&B musician
+1819	Q36844	Rihanna	Barbadian singer, fashion designer, actress, and businesswoman
+1820	Q192410	Jennifer Hudson	American singer–songwriter, actress, spokesperson
+1821	Q1209498	poet lawyer	poet with legal training
+1822	Q704696	Ray Lankester	British zoologist
+1823	Q188137	J. J. Abrams	American film and television producer and director
+1824	Q388035	Gloria Trevi	singer-songwriter from Mexico
+1825	Q216913	Deryck Whibley	Canadian musician
+1826	Q270951	Alsou	Tatar singer from Russia
+1827	Q130631	Jacques Derrida	French philosopher
+1828	Q207898	Manu Chao	French Spanish singer, guitarist and record producer
+1829	Q182725	Etta James	American recording artist singer
+1830	Q38392	William Faulkner	American writer
+1831	Q239917	Tina Arena	Australian singer, songwriter and television personality
+1832	Q11930	Kevin Costner	American actor, singer, musician, producer, director, and businessman
+1833	Q297794	Yasmina Reza	French actor and writer
+1834	Q25351	Theodor Mommsen	German classical scholar, historian, jurist, journalist, politician, archaeologist and writer
+1835	Q35032	Eastern Orthodox Church	Christian Church
+1836	Q7747	Vladimir Putin	2nd and 4th President of Russia
+1837	Q318004	Antoine César Becquerel	French scientist and a pioneer in the study of electric and luminescent phenomena
+1838	Q203223	Ciara	American singer, songwriter, record producer, dancer, actress, and fashion model
+1839	Q1196752	traditional pop music	Western popular music that generally predates the advent of rock and roll in the mid-1950s
+1840	Q185007	Rita Levi-Montalcini	Italian neurologist
+1841	Q938622	Pontifical Academy of Sciences	scientific academy of the Vatican City
+1842	Q732513	Jô Soares	Brazilian author, actor, director
+1843	Q188459	Goldie Hawn	American actress, film director, and producer
+1844	Q201562	Hayley Williams	American singer-songwriter, entrepreneur and musician
+1845	Q214642	Paul Auster	American novelist, poet, essayist, screenwriter
+1846	Q75612	Isaac Bashevis Singer	Polish-American author
+1847	Q32927	Valery Leontiev	Soviet and Russian singer
+1848	Q636	Kate Bush	British recording artist singer, songwriter, musician and record producer
+1849	Q704742	Sticky Fingaz	American hardcore rapper, record producer, actor, film director, film editor and writer, best known as a member of multi-platinum hardcore rap group Onyx
+1850	Q1449438	Mick Wingert	American voice-over actor
+1851	Q21077	Warner Music Group	American major global music conglomerate
+1852	Q294531	Neil Diamond	American recording artist singer-songwriter
+1853	Q171363	Viggo Mortensen	American actor
+1854	Q78704	Hanns Eisler	Austrian composer
+1855	Q251287	Waylon Jennings	American country music singer, songwriter, and musician
+1856	Q345325	Harry Shearer	American actor
+1857	Q17714	Stephen Hawking	British theoretical physicist, cosmologist, and author
+1858	Q165980	University of Vienna	public university located in Vienna, Austria
+1859	Q4783148	Arab Bank for Economic Development in Africa	Arab Bank for Economic Development in Africa
+1860	Q485310	Neil Patrick Harris	American actor and host
+1861	Q44857	John Legend	American singer, songwriter, producer, actor, and philanthropist
+1862	Q155907	Sir George Stokes, 1st Baronet	British mathematician and physicist
+1863	Q381884	Sergey Lazarev	Russian singer and actor
+1864	Q704931	Edmund Wilson	American writer, literary and social critic, and noted man of letters (1895-1972)
+1865	Q154770	Arnold Schoenberg	Austrian-American composer
+1866	Q25320	Paul Langevin	French physicist, philosopher of science and pedagogue
+1867	Q52447	RZA	American rapper, record producer, actor, writer
+1868	Q77109	Golo Mann	historian (1909-1994)
+1869	Q186264	Darius Milhaud	French composer and teacher
+1870	Q184750	Slavoj Žižek	Slovene philosopher
+1871	Q262838	Cree Summer	American-Canadian Actress and musician
+1872	Q862	Joseph Brodsky	Russian-American poet
+1873	Q134798	Haruki Murakami	Japanese writer
+1874	Q18805	naturalist	person who studies and knows a lot about plants, animals and natural history (esp in the field)
+1875	Q78492	Tomáš Garrigue Masaryk	First Czechoslovak president
+1876	Q3986379	The Compleat Beatles	1984 film by Patrick Montgomery
+1877	Q5043	Christianity	monotheistic religious group based on the belief of Jesus being the Son of God
+1878	Q22072	John Farnham	English-Australian pop singer
+1879	Q8704	Walt Disney	American film producer and businessman
+1880	Q37327	Samuel Beckett	Irish novelist, playwright, and poet
+1881	Q207947	Ralph Vaughan Williams	English composer
+1882	Q1238570	political scientist	occupation
+1883	Q710	Kiribati	island nation in the central Pacific Ocean
+1884	Q228733	Lea Michele	American actress, singer and author
+1885	Q1373347	Martie Maguire	American musician
+1886	Q213579	Ernst Chladni	German physicist, mathematician and musician
+1887	Q39829	Stephen King	American author
+1888	Q235946	Elizabeth Bishop	American poet
+1889	Q41166	Jonathan Swift	Anglo-Irish satirist, essayist, and poet
+1890	Q157242	Alexander R. Todd, Baron Todd	British biochemist
+1891	Q150989	Frédéric Joliot-Curie	French scientist
+1892	Q232592	Jill Scott	American soul musician
+1893	Q110462	Julie Delpy	French-American actress, film director, screenwriter, and singer-songwriter
+1894	Q312252	Andy Griffith	American actor, television producer, Southern-gospel singer, and writer
+1895	Q190076	Joe Cocker	English recording artist rock and blues singer
+1896	Q504	Émile Zola	French writer
+1897	Q713750	West Germany	Federal Republic of Germany (1949–1990)
+1898	Q675	André-Marie Ampère	French physicist and mathematician
+1899	Q186042	John Kenneth Galbraith	American economist and diplomat
+1900	Q155860	Andrey Vyshinsky	Soviet politician
+1901	Q7199	Marcel Proust	French novelist, critic, and essayist
+1902	Q16297	William Shatner	Canadian actor, musician, recording artist, author and film director
+1903	Q1067	Dante Alighieri	Italian poet
+1904	Q41568	Michel de Montaigne	French-Occitan author, humanistic philosopher, statesman
+1905	Q181573	Fazil Iskander	Soviet and Russian writer
+1906	Q116309	Nicholas Marr	Georgian ethnologist and linguist
+1907	Q1176607	Ross Bagdasarian Sr.	American musician and actor (1919-1972)
+1908	Q29055	Sacha Baron Cohen	English actor, comedian, screenwriter, director, and film producer
+1909	Q55456	Nino Manfredi	Italian actor
+1910	Q949	John Bardeen	American physicist and engineer
+1911	Q102813	Yul Brynner	American actor (1920-1985)
+1912	Q50713	Jean Renoir	French film director and screenwriter
+1913	Q51094	Yuri Shevchuk	Russian singer
+1914	Q53714	Chord Overstreet	American actor, singer and musician
+1915	Q215359	Dean Martin	American singer, actor, comedian and film producer
+1916	Q204804	Beth Hart	American singer
+1917	Q77024	Lion Feuchtwanger	German writer
+1918	Q313138	Redman	American recording artist rapper and actor
+1919	Q310048	Don DeLillo	American novelist, playwright and essayist
+1920	Q34166	Slash	British-American musician and songwriter
+1921	Q214191	Michael Mann	German-born musician and professor of German literature
+1922	Q194045	Steven Tyler	American singer, songwriter, keyboardist
+1923	Q3291340	Société Philomathique de Paris	organization
+1924	Q17457	Donald Knuth	American computer scientist
+1925	Q158078	Alfred Schnittke	Soviet composer
+1926	Q50764	Éric Rohmer	French film director (1920-2010)
+1927	Q76442	Johann Christoph Gottsched	German author and critic
+1928	Q57244	Paul Hindemith	German-born American composer, violist, violinist, teacher and conductor
+1929	Q233817	Debbie Gibson	American singer, songwriter, record producer, actress
+1930	Q166796	GoonRock	American musician
+1931	Q359552	Gordon Lightfoot	Canadian singer-songwriter
+1932	Q366671	Jan Hammer	Czech-born American musician, composer and record producer
+1933	Q202729	Jerry Lee Lewis	American recording artist singer-songwriter and pianist
+1934	Q430076	Marc Connelly	American playwright (1890-1980)
+1935	Q2305208	Russian Soviet Federative Socialist Republic	Russian Soviet Federative Socialist Republic as sovereign state in 1918–1923
+1936	Q102822	Jacobus Henricus van 't Hoff	Dutch physical and organic chemist
+1937	Q536723	Lori Lieberman	American musician
+1938	Q184249	Kelly Rowland	American singer, songwriter, actress
+1939	Q960081	Kenneth Burke	American philosopher
+1940	Q224159	William H. Macy	American actor, screenwriter, teacher and director in theater, film and television
+1941	Q455236	Alexis Korner	British blues musician and radio broadcaster
+1942	Q150916	Jon Bon Jovi	American singer and musician, songwriter
+1943	Q189599	Keith Richards	British songwriter, guitarist of The Rolling Stones
+1944	Q678551	American Jews	ethnic group
+1945	Q44107	Peter Handke	Nobel laureate in Literature & Austrian writer, playwright and film director
+1946	Q37030	Thomas Mann	German novelist, and 1929 Nobel Prize laureate
+1947	Q32849	Akon	American-Senegalese singer, songwriter, record producer, entrepreneur, philanthropist and actor from New Jersey
+1948	Q190631	Bette Midler	American singer-songwriter, actress, comedian and film producer
+1949	Q654283	Def Jam Recordings	American record label
+1950	Q1112005	Queen Latifah	American musician and actress
+1951	Q311	Père Lachaise Cemetery	cemetery in the city of Paris, France
+1952	Q76686	August Schleicher	German philologist
+1953	Q4473	Jennette McCurdy	American actress and singer-songwriter
+1954	Q157271	Friedrich Schlegel	German poet, critic and scholar, editor
+1955	Q25014	John Cleese	English comedian and actor
+1956	Q188375	Lucy Liu	American actress and model
+1957	Q54945	Hannes Alfvén	Swedish electrical engineer, plasma physicist and science fiction author (1908-1995), winner of the 1970 Nobel Prize for Physics
+1958	Q533369	Saul Williams	American singer, musician, poet, writer, and actor
+1959	Q157318	Leszek Kołakowski	Philosopher, historian of ideas
+1960	Q672	Tuvalu	country in Oceania
+1961	Q41594	Christina Aguilera	American singer, songwriter, actress and television personality
+1962	Q47899	Paris Hilton	American socialite and television personality
+1963	Q151991	European Southern Observatory	intergovernmental research organization for ground-based astronomy
+1964	Q232113	Anna Karina	Danish-French actress
+1965	Q41076	Mariah Carey	American singer and songwriter
+1966	Q6078	Dr. Dre	American rapper, record producer, entrepreneur and actor from California
+1967	Q236351	Stacie Orrico	American singer
+1968	Q311238	Sean Lennon	American composer and musician, son of the late John Lennon
+1969	Q287177	ABC Records	US record label imprint of ABC Records, Inc.
+1970	Q2416148	Vladimir Turchinsky	Russian bodybuilder
+1971	Q277356	Sergei Gerasimov	film director, screenwriter, actor (1906-1985)
+1972	Q187165	Dave Mustaine	American musician
+1973	Q887347	Bo Burnham	American comedian, musician, and actor
+1974	Q7318	Nazi Germany	Germany in the age of Nazi dictatorship from 1933 to 1945
+1975	Q45321	Harald Lesch	German astronomer
+1976	Q58735	Lily Allen	English singer, songwriter, actress, and television presenter
+1977	Q208117	Bella Thorne	American actress, singer, author, model and dancer
+1978	Q269927	David Mamet	American playwright, essayist, screenwriter, and film director
+1979	Q86820	Hugo Huppert	Poet and writer
+1980	Q918966	Nahum Sokolow	Hebrew journalist, editor, essayist, and political leader
+1981	Q83396	Eleanor Roosevelt	American politician, diplomat, and activist, and First Lady of the United States
+1982	Q78491	Stefan Zweig	Austrian writer (1881-1942)
+1983	Q11826	Al-Biruni	Persian scholar and polymath
+1984	Q295537	Eduard Limonov	Russian writer
+1985	Q334670	Ted Nugent	American rock musician
+1986	Q4042	CeeLo Green	American singer, songwriter, rapper and record producer
+1987	Q242873	Ingrid Michaelson	American singer-songwriter
+1988	Q487491	Anatole Abragam	French physicist
+1989	Q311193	Yoshiki	Japanese musician
+1990	Q27407	East Africa	easterly region of the African continent
+1991	Q7546	Ingmar Bergman	Swedish filmmaker (1918-2007)
+1992	Q208175	Novodevichy Cemetery	cemetery in Moscow, Russia
+1993	Q3033	Göttingen	Large city in Lower Saxony, Germany
+1994	Q336018	Julian Fellowes	English actor, dramatist, director, novelist, producer and screenwriter
+1995	Q311232	Tyrese Gibson	American actor and singer
+1996	Q239195	Hayley Kiyoko	American singer, songwriter, and actress
+1997	Q80222	Joseph-Louis Lagrange	Mathematician and astronomer (1736-1813)
+1998	Q310300	James Taylor	American singer-songwriter and guitarist
+1999	Q77144	Leo Strauss	History of Political Philosophy scholar
+2000	Q156201	Roman Jakobson	American linguist, philosopher and educationist
+2001	Q194287	Joe Satriani	American guitar player
+2002	Q2914170	street artist	artist performing in public places, for gratuities
+2003	Q44221	Sean Penn	American actor, screenwriter, and film director
+2004	Q242792	Laura Marano	American actress and singer
+2005	Q234891	Yo-Yo Ma	American cellist
+2006	Q1334617	Raymond Scott	American musician and inventor (1908-1994)
+2007	Q451608	Gaspard de Prony	French mathematician and engineer, who worked on hydraulics
+2008	Q216692	Ludvig Holberg	Danish-Norwegian writer, philosopher and historian
+2009	Q1095432	Clarence "Gatemouth" Brown	American blues musician
+2010	Q34433	University of Oxford	Collegiate research university in Oxford, England
+2011	Q176909	Walker Percy	Southern philosophical novelist
+2012	Q410	Carl Sagan	American astrophysicist, cosmologist, author and science educator
+2013	Q4538	Jonathan Winters	American comedian, actor, and artist
+2014	Q83338	Robin Williams	American actor and stand-up comedian (1951-2014)
+2015	Q332462	Ivan Franko	Ukrainian poet and writer
+2016	Q984644	Gavriil Troyepolsky	Soviet writer
+2017	Q2680	Bruce Willis	American actor, producer, and musician
+2018	Q351061	Ryan Tedder	American singer-songwriter and record producer
+2019	Q63458	Theodor Nöldeke	German Semitic scholar
+2020	Q188111	Ayumi Hamasaki	Japanese recording artist, lyricist, model, and actress
+2021	Q9438	Thomas Aquinas	Italian Dominican friar, philosopher, Catholic priest, and Doctor of the Church
+2022	Q208681	Kris Kristofferson	American country music singer, songwriter, musician, and film actor
+2023	Q730261	Fredro Starr	American hardcore rapper, record producer, actor and author, best known as a member of multi-platinum hardcore rap group Onyx
+2024	Q204751	Anthony Kiedis	American singer
+2025	Q165219	Robert Downey, Jr.	American actor
+2026	Q307	Galileo Galilei	Italian mathematician, physicist, philosopher and astronomer
+2027	Q471664	Leonid Leonov	Russian writer
+2028	Q131755	bipolar disorder	human mental illness characterized by mood changes
+2029	Q34296	Woodrow Wilson	American politician, 28th President of the United States (in office from 1913 to 1921)
+2030	Q201732	Robert Graves	English poet and novelist
+2031	Q42	Douglas Adams	English writer and humorist
+2032	Q55004	Kurt Weill	German composer
+2033	Q42229	Mel Gibson	American actor, film director, producer and screenwriter

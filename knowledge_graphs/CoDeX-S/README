@@ -1,0 +1,8 @@
+cite: Tara Safavi and Danai Koutra. 2020. CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. In EMNLP (1). Association for Computational Linguistics, 8328–8350.
+
+1. entities.txt: {id}\t{alias}\t{name}\t{description}
+2. relations.txt: {id}\t{alias}\t{name}\t{description}
+3. train2alias/valid2alias/test2alias.txt: {head_alias}\t{relation_alias}\t{tail_alias}
+4. train2id/valid2id/test2id.txt: {head_id}\t{relation_id}\t{tail_id}
+5. train2name/valid2name/test2name.txt: {head_name}\t{relation_name}\t{tail_name}
+

@@ -1,0 +1,661 @@
+steroid	interacts with	eicosanoid
+clinical attribute	is a	conceptual entity
+body location or region	location of	physiologic function
+neoplastic process	is a	disease or syndrome
+carbohydrate	affects	molecular function
+disease or syndrome	affects	organ or tissue function
+substance	issue in	occupation or discipline
+laboratory or test result	evaluation of	genetic function
+chemical viewed functionally	is a	entity
+organophosphorus compound	ingredient of	clinical drug
+mental or behavioral dysfunction	affects	social behavior
+human caused phenomenon or process	result of	pathologic function
+amino acid peptide or protein	interacts with	antibiotic
+hormone	affects	experimental model of disease
+antibiotic	affects	cell function
+embryonic structure	part of	bird
+tissue	produces	organic chemical
+genetic function	process of	organ or tissue function
+congenital abnormality	part of	mammal
+inorganic chemical	causes	cell or molecular dysfunction
+receptor	disrupts	cell
+professional society	location of	laboratory procedure
+organism function	co-occurs with	cell function
+immunologic factor	causes	cell or molecular dysfunction
+vitamin	affects	neoplastic process
+antibiotic	complicates	anatomical abnormality
+quantitative concept	measurement of	physiologic function
+pathologic function	affects	biologic function
+congenital abnormality	issue in	occupation or discipline
+tissue	adjacent to	body space or junction
+vitamin	disrupts	organ or tissue function
+receptor	is a	substance
+mental process	is a	organism function
+vertebrate	exhibits	individual behavior
+body location or region	location of	therapeutic or preventive procedure
+physical object	issue in	biomedical occupation or discipline
+inorganic chemical	affects	cell function
+neoplastic process	affects	vertebrate
+cell function	affects	mammal
+population group	uses	medical device
+human caused phenomenon or process	result of	molecular function
+pharmacologic substance	treats	neoplastic process
+embryonic structure	location of	cell or molecular dysfunction
+experimental model of disease	result of	laboratory procedure
+enzyme	disrupts	cell function
+pathologic function	complicates	injury or poisoning
+mental or behavioral dysfunction	degree of	disease or syndrome
+plant	interacts with	animal
+disease or syndrome	process of	pathologic function
+pathologic function	result of	diagnostic procedure
+anatomical abnormality	manifestation of	biologic function
+laboratory or test result	manifestation of	pathologic function
+fish	issue in	biomedical occupation or discipline
+carbohydrate	affects	cell or molecular dysfunction
+biologic function	affects	virus
+mental process	precedes	cell function
+experimental model of disease	occurs in	mental or behavioral dysfunction
+congenital abnormality	part of	bacterium
+human caused phenomenon or process	result of	physiologic function
+cell	location of	therapeutic or preventive procedure
+experimental model of disease	process of	natural phenomenon or process
+neoplastic process	result of	phenomenon or process
+neuroreactive substance or biogenic amine	affects	organism function
+mental or behavioral dysfunction	process of	archaeon
+congenital abnormality	part of	virus
+pathologic function	manifestation of	genetic function
+biologically active substance	causes	mental or behavioral dysfunction
+pharmacologic substance	treats	disease or syndrome
+body space or junction	location of	cell function
+genetic function	affects	virus
+acquired abnormality	result of	diagnostic procedure
+physiologic function	affects	archaeon
+cell component	location of	pathologic function
+molecular biology research technique	measures	chemical viewed functionally
+molecular function	result of	human caused phenomenon or process
+professional or occupational group	uses	manufactured object
+receptor	disrupts	molecular function
+organ or tissue function	process of	biologic function
+molecular biology research technique	measures	element ion or isotope
+physiologic function	result of	experimental model of disease
+physiologic function	produces	biologically active substance
+fully formed anatomical structure	part of	amphibian
+enzyme	complicates	organism function
+tissue	location of	virus
+invertebrate	is a	animal
+mental process	co-occurs with	genetic function
+anatomical abnormality	location of	bacterium
+fully formed anatomical structure	location of	cell or molecular dysfunction
+organ or tissue function	co-occurs with	genetic function
+physiologic function	result of	human caused phenomenon or process
+molecular function	result of	cell or molecular dysfunction
+diagnostic procedure	associated with	pathologic function
+physiologic function	result of	neoplastic process
+lipid	interacts with	pharmacologic substance
+cell component	produces	receptor
+physiologic function	result of	congenital abnormality
+age group	performs	machine activity
+congenital abnormality	associated with	organism attribute
+laboratory procedure	analyzes	amino acid peptide or protein
+vitamin	affects	mental process
+cell component	part of	organism
+classification	is a	conceptual entity
+organism function	result of	pathologic function
+organism function	produces	vitamin
+laboratory procedure	diagnoses	mental or behavioral dysfunction
+carbohydrate	affects	pathologic function
+cell component	is a	entity
+pathologic function	affects	organism
+mental process	affects	bacterium
+laboratory or test result	indicates	organ or tissue function
+tissue	produces	body substance
+cell component	part of	body part organ or organ component
+molecular function	affects	mental or behavioral dysfunction
+carbohydrate	interacts with	immunologic factor
+daily or recreational activity	associated with	acquired abnormality
+molecular function	result of	disease or syndrome
+neoplastic process	occurs in	injury or poisoning
+fully formed anatomical structure	part of	archaeon
+carbohydrate	affects	mental process
+element ion or isotope	interacts with	hazardous or poisonous substance
+injury or poisoning	disrupts	molecular function
+professional or occupational group	interacts with	population group
+mental or behavioral dysfunction	affects	archaeon
+organic chemical	affects	neoplastic process
+substance	causes	disease or syndrome
+biologically active substance	causes	disease or syndrome
+injury or poisoning	disrupts	tissue
+pathologic function	issue in	occupation or discipline
+mental or behavioral dysfunction	process of	reptile
+acquired abnormality	manifestation of	pathologic function
+element ion or isotope	issue in	biomedical occupation or discipline
+behavior	associated with	age group
+disease or syndrome	complicates	cell or molecular dysfunction
+fully formed anatomical structure	produces	receptor
+chemical	causes	injury or poisoning
+mental or behavioral dysfunction	affects	reptile
+biologic function	affects	organism function
+antibiotic	interacts with	neuroreactive substance or biogenic amine
+biologically active substance	affects	mental or behavioral dysfunction
+laboratory procedure	assesses effect of	genetic function
+research activity	measures	amino acid peptide or protein
+disease or syndrome	affects	cell or molecular dysfunction
+pathologic function	result of	disease or syndrome
+disease or syndrome	occurs in	mental or behavioral dysfunction
+social behavior	associated with	patient or disabled group
+antibiotic	diagnoses	mental or behavioral dysfunction
+pathologic function	result of	organism function
+plant	interacts with	reptile
+mental or behavioral dysfunction	affects	amphibian
+sign or symptom	diagnoses	mental or behavioral dysfunction
+biologic function	result of	mental or behavioral dysfunction
+biologic function	affects	cell or molecular dysfunction
+anatomical abnormality	part of	vertebrate
+family group	interacts with	group
+experimental model of disease	process of	fish
+mental or behavioral dysfunction	affects	natural phenomenon or process
+organism function	affects	alga
+cell component	location of	body space or junction
+body part organ or organ component	location of	genetic function
+chemical	affects	genetic function
+chemical viewed functionally	affects	physiologic function
+language	issue in	biomedical occupation or discipline
+body part organ or organ component	location of	organ or tissue function
+research activity	is a	occupational activity
+diagnostic procedure	analyzes	hazardous or poisonous substance
+experimental model of disease	occurs in	group
+nucleic acid nucleoside or nucleotide	is a	entity
+diagnostic procedure	associated with	congenital abnormality
+occupational activity	associated with	cell or molecular dysfunction
+organ or tissue function	result of	acquired abnormality
+molecular function	affects	cell function
+chemical viewed structurally	ingredient of	clinical drug
+mental or behavioral dysfunction	result of	behavior
+chemical viewed structurally	interacts with	carbohydrate
+cell function	affects	neoplastic process
+pathologic function	occurs in	mental or behavioral dysfunction
+family group	performs	therapeutic or preventive procedure
+family group	produces	research device
+amino acid peptide or protein	affects	mental process
+hormone	complicates	biologic function
+anatomical abnormality	result of	health care activity
+organism function	process of	biologic function
+immunologic factor	complicates	disease or syndrome
+nucleotide sequence	property of	nucleic acid nucleoside or nucleotide
+organization	location of	occupational activity
+clinical attribute	result of	genetic function
+vitamin	causes	anatomical abnormality
+mental or behavioral dysfunction	affects	organ or tissue function
+neoplastic process	result of	mental or behavioral dysfunction
+body part organ or organ component	produces	organic chemical
+virus	is a	organism
+organ or tissue function	process of	physiologic function
+individual behavior	associated with	occupation or discipline
+hazardous or poisonous substance	affects	disease or syndrome
+cell or molecular dysfunction	affects	physiologic function
+hormone	disrupts	tissue
+molecular function	affects	animal
+physiologic function	affects	molecular function
+biologic function	affects	physiologic function
+laboratory or test result	indicates	mental process
+chemical viewed structurally	affects	organ or tissue function
+cell function	result of	disease or syndrome
+amino acid peptide or protein	affects	biologic function
+experimental model of disease	affects	biologic function
+biomedical or dental material	affects	biologic function
+molecular biology research technique	measures	amino acid peptide or protein
+experimental model of disease	affects	bacterium
+antibiotic	affects	organ or tissue function
+human	is a	mammal
+population group	performs	daily or recreational activity
+cell component	conceptual part of	body system
+cell	part of	reptile
+organ or tissue function	affects	human
+indicator reagent or diagnostic aid	interacts with	chemical
+cell or molecular dysfunction	result of	organism function
+molecular biology research technique	measures	eicosanoid
+molecular biology research technique	measures	natural phenomenon or process
+organism attribute	result of	disease or syndrome
+pharmacologic substance	treats	injury or poisoning
+genetic function	affects	biologic function
+group	exhibits	individual behavior
+human caused phenomenon or process	result of	phenomenon or process
+antibiotic	affects	genetic function
+hormone	interacts with	enzyme
+pathologic function	process of	archaeon
+bird	interacts with	mammal
+neuroreactive substance or biogenic amine	disrupts	organ or tissue function
+carbohydrate	causes	cell or molecular dysfunction
+cell function	affects	disease or syndrome
+cell	part of	fungus
+organism function	process of	human
+receptor	complicates	mental or behavioral dysfunction
+genetic function	is a	molecular function
+mental or behavioral dysfunction	degree of	cell or molecular dysfunction
+group attribute	property of	family group
+pharmacologic substance	diagnoses	experimental model of disease
+pathologic function	affects	alga
+tissue	location of	biologic function
+organism function	co-occurs with	mental process
+occupational activity	associated with	neoplastic process
+indicator reagent or diagnostic aid	affects	genetic function
+carbohydrate	interacts with	biomedical or dental material
+organism function	occurs in	temporal concept
+inorganic chemical	causes	anatomical abnormality
+cell or molecular dysfunction	affects	organism function
+amphibian	exhibits	social behavior
+anatomical structure	part of	alga
+lipid	is a	entity
+cell or molecular dysfunction	result of	disease or syndrome
+social behavior	associated with	professional or occupational group
+cell	produces	hormone
+invertebrate	is a	entity
+organic chemical	causes	cell or molecular dysfunction
+acquired abnormality	result of	human caused phenomenon or process
+pathologic function	manifestation of	disease or syndrome
+chemical viewed functionally	issue in	occupation or discipline
+experimental model of disease	co-occurs with	anatomical abnormality
+laboratory procedure	assesses effect of	element ion or isotope
+diagnostic procedure	measures	cell function
+chemical viewed structurally	issue in	occupation or discipline
+genetic function	affects	disease or syndrome
+laboratory or test result	co-occurs with	sign or symptom
+amino acid peptide or protein	interacts with	chemical viewed functionally
+cell	part of	bacterium
+cell function	affects	clinical attribute
+fully formed anatomical structure	part of	plant
+chemical viewed structurally	interacts with	lipid
+molecular biology research technique	measures	molecular function
+fungus	interacts with	organism
+enzyme	interacts with	vitamin
+congenital abnormality	manifestation of	mental or behavioral dysfunction
+therapeutic or preventive procedure	complicates	pathologic function
+chemical	affects	organ or tissue function
+virus	location of	hormone
+organ or tissue function	produces	hormone
+alga	location of	neuroreactive substance or biogenic amine
+laboratory procedure	affects	organ or tissue function
+pathologic function	process of	invertebrate
+manufactured object	causes	cell or molecular dysfunction
+neoplastic process	affects	rickettsia or chlamydia
+cell or molecular dysfunction	result of	acquired abnormality
+genetic function	affects	plant
+alga	is a	physical object
+family group	performs	laboratory procedure
+disease or syndrome	degree of	cell or molecular dysfunction
+reptile	exhibits	social behavior
+therapeutic or preventive procedure	affects	patient or disabled group
+qualitative concept	evaluation of	individual behavior
+population group	uses	regulation or law
+antibiotic	causes	cell or molecular dysfunction
+cell or molecular dysfunction	occurs in	mental or behavioral dysfunction
+acquired abnormality	manifestation of	genetic function
+bacterium	is a	entity
+experimental model of disease	occurs in	age group
+immunologic factor	causes	congenital abnormality
+laboratory procedure	measures	pharmacologic substance
+disease or syndrome	affects	fish
+biologic function	result of	neoplastic process
+therapeutic or preventive procedure	associated with	acquired abnormality
+cell	produces	vitamin
+mental process	process of	vertebrate
+mental process	result of	neoplastic process
+diagnostic procedure	diagnoses	cell or molecular dysfunction
+rickettsia or chlamydia	location of	vitamin
+neoplastic process	manifestation of	pathologic function
+disease or syndrome	precedes	neoplastic process
+physiologic function	result of	natural phenomenon or process
+laboratory or test result	measurement of	food
+diagnostic procedure	assesses effect of	element ion or isotope
+vitamin	causes	cell or molecular dysfunction
+carbohydrate sequence	is a	idea or concept
+human caused phenomenon or process	result of	injury or poisoning
+element ion or isotope	causes	cell or molecular dysfunction
+organic chemical	causes	congenital abnormality
+human caused phenomenon or process	result of	experimental model of disease
+experimental model of disease	complicates	mental or behavioral dysfunction
+organ or tissue function	is a	natural phenomenon or process
+nucleotide sequence	is a	molecular sequence
+physiologic function	affects	fungus
+experimental model of disease	is a	phenomenon or process
+cell or molecular dysfunction	manifestation of	injury or poisoning
+clinical drug	causes	acquired abnormality
+cell component	location of	genetic function
+occupational activity	associated with	disease or syndrome
+laboratory or test result	associated with	anatomical abnormality
+age group	performs	social behavior
+fully formed anatomical structure	location of	physiologic function
+hormone	interacts with	vitamin
+molecular function	precedes	organism function
+human caused phenomenon or process	is a	event
+professional or occupational group	performs	diagnostic procedure
+disease or syndrome	co-occurs with	injury or poisoning
+mental process	produces	biologically active substance
+molecular function	produces	hormone
+neoplastic process	complicates	congenital abnormality
+neoplastic process	result of	mental process
+eicosanoid	issue in	biomedical occupation or discipline
+health care related organization	is a	entity
+cell function	is a	biologic function
+diagnostic procedure	analyzes	pharmacologic substance
+immunologic factor	complicates	genetic function
+physiologic function	precedes	genetic function
+immunologic factor	complicates	physiologic function
+mental or behavioral dysfunction	process of	mammal
+immunologic factor	indicates	neoplastic process
+neoplastic process	process of	genetic function
+biologic function	affects	fish
+organ or tissue function	affects	bird
+mental or behavioral dysfunction	result of	environmental effect of humans
+hazardous or poisonous substance	complicates	neoplastic process
+cell or molecular dysfunction	result of	social behavior
+experimental model of disease	result of	human caused phenomenon or process
+element ion or isotope	interacts with	vitamin
+drug delivery device	causes	injury or poisoning
+fully formed anatomical structure	location of	fungus
+fully formed anatomical structure	location of	bacterium
+natural phenomenon or process	result of	disease or syndrome
+enzyme	complicates	experimental model of disease
+individual behavior	manifestation of	mental or behavioral dysfunction
+geographic area	is a	idea or concept
+tissue	is a	fully formed anatomical structure
+sign or symptom	diagnoses	experimental model of disease
+educational activity	associated with	pathologic function
+receptor	affects	biologic function
+organ or tissue function	co-occurs with	physiologic function
+mental or behavioral dysfunction	produces	vitamin
+experimental model of disease	result of	physiologic function
+hormone	complicates	physiologic function
+self help or relief organization	carries out	educational activity
+environmental effect of humans	is a	event
+chemical	causes	disease or syndrome
+diagnostic procedure	diagnoses	congenital abnormality
+cell component	part of	human
+experimental model of disease	result of	health care activity
+laboratory or test result	manifestation of	experimental model of disease
+organism attribute	measurement of	mental process
+cell function	affects	genetic function
+anatomical structure	part of	plant
+natural phenomenon or process	result of	pathologic function
+congenital abnormality	result of	experimental model of disease
+organism function	produces	receptor
+food	causes	neoplastic process
+hormone	affects	genetic function
+diagnostic procedure	issue in	biomedical occupation or discipline
+organ or tissue function	process of	mental or behavioral dysfunction
+bird	interacts with	archaeon
+laboratory procedure	analyzes	organophosphorus compound
+animal	interacts with	organism
+laboratory procedure	assesses effect of	disease or syndrome
+plant	interacts with	alga
+therapeutic or preventive procedure	prevents	neoplastic process
+congenital abnormality	complicates	anatomical abnormality
+antibiotic	disrupts	organism function
+age group	performs	daily or recreational activity
+gene or genome	part of	plant
+amino acid peptide or protein	interacts with	neuroreactive substance or biogenic amine
+pharmacologic substance	causes	pathologic function
+lipid	issue in	occupation or discipline
+research device	causes	anatomical abnormality
+disease or syndrome	process of	alga
+anatomical abnormality	result of	cell function
+antibiotic	treats	experimental model of disease
+antibiotic	complicates	mental process
+injury or poisoning	result of	cell function
+physiologic function	precedes	organ or tissue function
+genetic function	result of	human caused phenomenon or process
+quantitative concept	measurement of	mental process
+fungus	causes	pathologic function
+rickettsia or chlamydia	location of	immunologic factor
+eicosanoid	interacts with	element ion or isotope
+inorganic chemical	causes	neoplastic process
+anatomical structure	issue in	biomedical occupation or discipline
+immunologic factor	complicates	injury or poisoning
+drug delivery device	treats	injury or poisoning
+research device	is a	entity
+biologically active substance	interacts with	neuroreactive substance or biogenic amine
+organophosphorus compound	interacts with	biologically active substance
+molecular function	affects	amphibian
+mental or behavioral dysfunction	co-occurs with	injury or poisoning
+neoplastic process	manifestation of	experimental model of disease
+bacterium	location of	biologically active substance
+organic chemical	interacts with	biomedical or dental material
+physiologic function	affects	natural phenomenon or process
+laboratory procedure	is a	health care activity
+neoplastic process	complicates	anatomical abnormality
+anatomical abnormality	affects	vertebrate
+clinical attribute	manifestation of	organ or tissue function
+embryonic structure	part of	fungus
+inorganic chemical	interacts with	enzyme
+mental or behavioral dysfunction	co-occurs with	experimental model of disease
+enzyme	complicates	neoplastic process
+sign or symptom	manifestation of	organ or tissue function
+organ or tissue function	co-occurs with	molecular function
+age group	is a	group
+steroid	affects	neoplastic process
+age group	exhibits	behavior
+disease or syndrome	manifestation of	physiologic function
+diagnostic procedure	is a	event
+biologically active substance	disrupts	gene or genome
+anatomical abnormality	manifestation of	mental process
+cell function	result of	physiologic function
+mental process	process of	human
+chemical	issue in	biomedical occupation or discipline
+alga	interacts with	human
+vitamin	affects	biologic function
+fully formed anatomical structure	produces	carbohydrate
+environmental effect of humans	result of	acquired abnormality
+disease or syndrome	result of	human caused phenomenon or process
+organic chemical	interacts with	steroid
+cell or molecular dysfunction	process of	natural phenomenon or process
+anatomical abnormality	part of	animal
+diagnostic procedure	uses	drug delivery device
+molecular biology research technique	method of	diagnostic procedure
+biologically active substance	causes	injury or poisoning
+anatomical abnormality	affects	plant
+molecular function	process of	invertebrate
+diagnostic procedure	measures	pharmacologic substance
+element ion or isotope	affects	molecular function
+mental or behavioral dysfunction	result of	neoplastic process
+machine activity	is a	activity
+nucleic acid nucleoside or nucleotide	interacts with	hormone
+laboratory procedure	affects	neoplastic process
+biomedical or dental material	is a	chemical
+pathologic function	affects	animal
+receptor	causes	pathologic function
+indicator reagent or diagnostic aid	causes	anatomical abnormality
+neuroreactive substance or biogenic amine	affects	cell or molecular dysfunction
+cell function	affects	rickettsia or chlamydia
+embryonic structure	location of	virus
+therapeutic or preventive procedure	affects	cell function
+human	interacts with	organism
+fungus	causes	disease or syndrome
+cell	produces	receptor
+population group	produces	regulation or law
+family group	performs	research activity
+vitamin	causes	injury or poisoning
+molecular sequence	issue in	biomedical occupation or discipline
+steroid	issue in	biomedical occupation or discipline
+bacterium	interacts with	fish
+cell function	result of	mental process
+organism attribute	property of	mammal
+anatomical abnormality	manifestation of	disease or syndrome
+cell or molecular dysfunction	result of	environmental effect of humans
+physiologic function	affects	mammal
+fully formed anatomical structure	part of	bird
+organic chemical	interacts with	hormone
+idea or concept	issue in	occupation or discipline
+patient or disabled group	uses	research device
+receptor	causes	acquired abnormality
+biologic function	result of	disease or syndrome
+biologically active substance	interacts with	enzyme
+physiologic function	is a	biologic function
+antibiotic	complicates	cell function
+hazardous or poisonous substance	disrupts	mental process
+pathologic function	precedes	cell or molecular dysfunction
+organism attribute	property of	organism
+organophosphorus compound	interacts with	carbohydrate
+bacterium	location of	receptor
+organ or tissue function	result of	experimental model of disease
+fully formed anatomical structure	location of	organism function
+finding	is a	conceptual entity
+congenital abnormality	is a	entity
+tissue	issue in	biomedical occupation or discipline
+natural phenomenon or process	result of	neoplastic process
+organism attribute	manifestation of	organ or tissue function
+therapeutic or preventive procedure	complicates	cell function
+population group	produces	medical device
+antibiotic	interacts with	biologically active substance
+antibiotic	causes	acquired abnormality
+cell function	produces	vitamin
+neoplastic process	affects	physiologic function
+environmental effect of humans	result of	mental or behavioral dysfunction
+organ or tissue function	affects	organism function
+lipid	affects	pathologic function
+laboratory procedure	affects	mental process
+biologically active substance	disrupts	cell component
+finding	manifestation of	organism function
+organism function	affects	bird
+genetic function	affects	physiologic function
+cell function	result of	genetic function
+antibiotic	affects	physiologic function
+organophosphorus compound	causes	pathologic function
+natural phenomenon or process	affects	genetic function
+neoplastic process	produces	receptor
+laboratory procedure	measures	biomedical or dental material
+organism attribute	measurement of	molecular function
+physiologic function	affects	biologic function
+experimental model of disease	result of	neoplastic process
+alga	interacts with	virus
+congenital abnormality	location of	fungus
+antibiotic	diagnoses	cell or molecular dysfunction
+diagnostic procedure	measures	temporal concept
+mental or behavioral dysfunction	result of	biologic function
+pharmacologic substance	complicates	biologic function
+pharmacologic substance	disrupts	organism function
+anatomical abnormality	result of	injury or poisoning
+fully formed anatomical structure	location of	molecular function
+nucleic acid nucleoside or nucleotide	interacts with	antibiotic
+neuroreactive substance or biogenic amine	is a	biologically active substance
+experimental model of disease	process of	bacterium
+neuroreactive substance or biogenic amine	interacts with	chemical
+cell or molecular dysfunction	affects	bird
+laboratory or test result	is a	conceptual entity
+pathologic function	associated with	organism attribute
+acquired abnormality	co-occurs with	injury or poisoning
+professional or occupational group	uses	drug delivery device
+professional or occupational group	diagnoses	experimental model of disease
+cell or molecular dysfunction	degree of	neoplastic process
+neoplastic process	issue in	biomedical occupation or discipline
+disease or syndrome	result of	mental process
+neoplastic process	process of	bird
+pathologic function	result of	anatomical abnormality
+congenital abnormality	manifestation of	disease or syndrome
+organism attribute	result of	neoplastic process
+injury or poisoning	issue in	occupation or discipline
+receptor	causes	mental or behavioral dysfunction
+clinical attribute	property of	bacterium
+nucleic acid nucleoside or nucleotide	affects	experimental model of disease
+lipid	causes	congenital abnormality
+chemical viewed structurally	interacts with	chemical viewed functionally
+antibiotic	prevents	pathologic function
+eicosanoid	is a	organic chemical
+biologically active substance	disrupts	organ or tissue function
+organ or tissue function	affects	genetic function
+antibiotic	affects	neoplastic process
+fully formed anatomical structure	location of	virus
+qualitative concept	evaluation of	activity
+embryonic structure	part of	cell
+enzyme	disrupts	tissue
+governmental or regulatory activity	associated with	disease or syndrome
+gene or genome	location of	mental process
+neoplastic process	process of	organism function
+pharmacologic substance	issue in	biomedical occupation or discipline
+receptor	complicates	disease or syndrome
+disease or syndrome	process of	genetic function
+anatomical abnormality	location of	virus
+embryonic structure	part of	vertebrate
+organism function	affects	experimental model of disease
+manufactured object	causes	mental or behavioral dysfunction
+cell	part of	body part organ or organ component
+molecular function	result of	experimental model of disease
+medical device	treats	acquired abnormality
+disease or syndrome	affects	human
+body part organ or organ component	location of	molecular function
+disease or syndrome	occurs in	neoplastic process
+vitamin	is a	chemical viewed functionally
+cell component	issue in	occupation or discipline
+cell component	produces	nucleic acid nucleoside or nucleotide
+bacterium	is a	organism
+cell or molecular dysfunction	occurs in	injury or poisoning
+hazardous or poisonous substance	issue in	occupation or discipline
+organization	location of	educational activity
+tissue	produces	biologically active substance
+fungus	is a	physical object
+organism function	result of	phenomenon or process
+organism function	is a	biologic function
+organic chemical	interacts with	nucleic acid nucleoside or nucleotide
+organic chemical	affects	natural phenomenon or process
+diagnostic procedure	associated with	neoplastic process
+molecular function	produces	neuroreactive substance or biogenic amine
+mental or behavioral dysfunction	process of	bird
+chemical viewed structurally	affects	biologic function
+experimental model of disease	produces	biologically active substance
+mental or behavioral dysfunction	associated with	organism attribute
+laboratory procedure	analyzes	neuroreactive substance or biogenic amine
+organic chemical	is a	substance
+mental or behavioral dysfunction	affects	plant
+daily or recreational activity	associated with	experimental model of disease
+mental process	precedes	organ or tissue function
+chemical	affects	neoplastic process
+hormone	ingredient of	clinical drug
+hormone	is a	biologically active substance
+molecular biology research technique	measures	receptor
+experimental model of disease	precedes	neoplastic process
+pharmacologic substance	interacts with	neuroreactive substance or biogenic amine
+virus	interacts with	fish
+acquired abnormality	affects	virus
+pathologic function	result of	molecular function
+embryonic structure	location of	fungus
+pharmacologic substance	affects	cell or molecular dysfunction
+biologic function	result of	acquired abnormality
+neoplastic process	co-occurs with	anatomical abnormality
+neoplastic process	result of	acquired abnormality
+body part organ or organ component	produces	body substance
+cell or molecular dysfunction	process of	mental or behavioral dysfunction
+educational activity	issue in	occupation or discipline
+pathologic function	manifestation of	neoplastic process
+virus	causes	pathologic function
+injury or poisoning	complicates	experimental model of disease
+eicosanoid	interacts with	pharmacologic substance
+molecular function	result of	natural phenomenon or process
+neoplastic process	produces	tissue
+diagnostic procedure	assesses effect of	vitamin
+anatomical abnormality	manifestation of	organ or tissue function
+hazardous or poisonous substance	ingredient of	clinical drug
+organophosphorus compound	affects	cell or molecular dysfunction
+laboratory procedure	measures	organism attribute
+chemical viewed functionally	interacts with	immunologic factor
+diagnostic procedure	diagnoses	disease or syndrome
+injury or poisoning	complicates	disease or syndrome
+molecular function	result of	congenital abnormality
+biologic function	affects	bacterium
+organism function	produces	hormone
+individual behavior	associated with	neoplastic process
+natural phenomenon or process	affects	cell function
+daily or recreational activity	associated with	pathologic function
+fully formed anatomical structure	location of	rickettsia or chlamydia
+organ or tissue function	affects	pathologic function
+neoplastic process	affects	amphibian
+acquired abnormality	occurs in	age group
+mental process	affects	organism attribute
+molecular biology research technique	measures	neoplastic process
+disease or syndrome	occurs in	patient or disabled group
+mental or behavioral dysfunction	affects	mammal
+environmental effect of humans	is a	phenomenon or process
+cell or molecular dysfunction	precedes	experimental model of disease
+laboratory or test result	is a	entity
+virus	interacts with	archaeon
+indicator reagent or diagnostic aid	causes	mental or behavioral dysfunction
+anatomical structure	part of	fungus
+cell or molecular dysfunction	process of	bird

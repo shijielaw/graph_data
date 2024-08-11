@@ -1,0 +1,42 @@
+0	P1412	languages spoken, written, or signed	language(s) that a person speaks, writes or signs, including the native language(s)
+1	P509	cause of death	underlying or immediate cause of death.  Underlying cause (e.g. car accident, stomach cancer) preferred.  Use 'manner of death' (P1196) for broadest category, e.g. natural causes, accident, homicide, suicide
+2	P463	member of	organization, musical group, or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).
+3	P106	occupation	occupation of a person, see also "field of work" (Property:P101), "position held" (Property:P39)
+4	P3373	sibling	the subject has the object as their sibling (brother, sister, etc.). Use "relative" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)
+5	P530	diplomatic relation	diplomatic relations of the country
+6	P30	continent	continent of which the subject is a part
+7	P172	ethnic group	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themself, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+8	P27	country of citizenship	the object is a country that recognizes the subject as its citizen
+9	P108	employer	person or organization for which the subject works or worked
+10	P69	educated at	educational institution attended by subject
+11	P19	place of birth	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+12	P737	influenced by	this person, idea, etc. is informed by that other person, idea, etc., e.g. "Heidegger was influenced by Aristotle".
+13	P101	field of work	specialization of a person or organization, see P106 for the occupation
+14	P136	genre	creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
+15	P264	record label	brand and trademark associated with the marketing of subject music recordings and music videos
+16	P1303	instrument	musical instrument that a person plays
+17	P37	official language	language designated as official by this item
+18	P451	unmarried partner	someone with whom the person is in a relationship without being married. Use "spouse" (P26) for married couples
+19	P20	place of death	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+20	P17	country	sovereign state of this item, don't use on humans
+21	P140	religion	religion of a person, organization or religious building, or associated with this subject
+22	P135	movement	literary, artistic, scientific or philosophical movement or scene associated with this person or work
+23	P551	residence	the place where the person is or has been, resident
+24	P26	spouse	the subject has the object as their spouse (husband, wife, partner, etc.). Use "unmarried partner" (P451) for non-married companions
+25	P102	member of political party	the political party of which this politician is or has been a member
+26	P119	place of burial	location of grave, resting place, place of ash-scattering, etc, (e.g. town/city or cemetery) for a person or animal. There may be several places: e.g. re-burials, cenotaphs, parts of body buried separately.
+27	P361	part of	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+28	P1050	medical condition	any state relevant to the health of an organism, including diseases and positive conditions
+29	P40	child	subject has object as biological, foster, and/or adoptive child
+30	P2348	time period	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+31	P159	headquarters location	specific location where an organization's headquarters is or has been situated. Inverse property of "occupant" (P466).
+32	P840	narrative location	the narrative of the work is set in this location
+33	P740	location of formation	location where a group or organization was formed
+34	P35	head of state	official with the highest formal authority in a country/state
+35	P138	named after	entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier "applies to name" (P5168) can be used to indicate which one
+36	P749	parent organization	parent organization of an organization, opposite of subsidiaries (P355)
+37	P800	notable works	notable scientific, artistic or literary work, or other work of significance among subject's works
+38	P161	cast member	actor in the subject production [use "character role" (P453) and/or "name of the character role" (P4633) as qualifiers] [use "voice actor" (P725) for voice-only role]
+39	P112	founded by	founder or co-founder of this organization, religion or place
+40	P495	country of origin	country of origin of this item (creative work, food, phrase, product, etc.)
+41	P3095	practiced by	type of agents that study this subject or work in this profession
